@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://storefixtureshowcase.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://storefixtureshowcase.ca/collections/shopping-basket-and-dumping-bin.atom"/>
+  <title>Ablelin Store Fixtures Corp.</title>
+  <updated>2017-08-23T15:17:39-04:00</updated>
+  <author>
+    <name>Ablelin Store Fixtures Corp.</name>
+  </author>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/10461528914</id>
+    <published>2017-08-23T15:17:39-04:00</published>
+    <updated>2017-08-23T15:17:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/stacking-basket-unit"/>
+    <title>Stacking basket unit - KL3802</title>
+    <s:type>Shopping basket and dump bin</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Stacking_basket_unit.jpg?v=1556849912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Shopping basket and dump bin<br>
+        <strong>Price: </strong>
+            199.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stacking basket unit,</p>
+<p>Four baskets high, each basket is 18" x 23" x 10" high.</p>
+<p>Casters included. </p>
+<p>Available in chrome.</p>
+<p>SKU: KL3802</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket</s:tag>
+    <s:tag>stacking basket</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10461528914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.50</s:price>
+      <s:sku>KL3802</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/10461277842</id>
+    <published>2017-08-23T14:20:08-04:00</published>
+    <updated>2017-08-23T14:20:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/mobile-basket-merchandiser"/>
+    <title>Mobile basket merchandiser --- KL3803</title>
+    <s:type>Shopping basket and dump bin</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/mobile_merchandiser_d3eb6114-37ff-46b0-8b79-71d2198a3096.jpg?v=1556891055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Shopping basket and dump bin<br>
+        <strong>Price: </strong>
+            218.90 - 246.00
+            <a href="https://storefixtureshowcase.ca/products/mobile-basket-merchandiser">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18" W x 23"L x 58" H Mobile merchandiser.</p>
+<p>Dividers included. Four casters, two with lock and two without the lock.</p>
+<p>Available in black, white and chrome finish.</p>
+<p>SKU: KL3803B for black, KL3803W for white, KL3803C for chrome</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10461277842</id>
+      <title>black</title>
+      <s:price currency="CAD">218.90</s:price>
+      <s:sku>KL3803B</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10461277842</id>
+      <title>white</title>
+      <s:price currency="CAD">218.90</s:price>
+      <s:sku>KL3803W</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10461277842</id>
+      <title>chrome</title>
+      <s:price currency="CAD">246.00</s:price>
+      <s:sku>KL3803C</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/10461212562</id>
+    <published>2017-08-23T13:55:00-04:00</published>
+    <updated>2017-08-23T13:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/12-x-18-wire-stacking-basket-and-add-on-kit-for-dump-bin"/>
+    <title>12 x 18 - inch Wire stacking basket and add-on kit for dump bin - KL3813, KL3813B</title>
+    <s:type>Shopping basket and dump bin</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/wire_stacking_basket_for_dump_bin.jpg?v=1503511904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Shopping basket and dump bin<br>
+        <strong>Price: </strong>
+            40.20 - 47.60
+            <a href="https://storefixtureshowcase.ca/products/12-x-18-wire-stacking-basket-and-add-on-kit-for-dump-bin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12 x 18 - inch Wire stacking basket and add-on kit for dump bin, (Top part in the picture only, Not including the bottom dumping bin)</p>
+<p>20 - inch high, fits 18 x 18 x 33 - inch dumping bin ( DP18 ).</p>
+<p>Available in chrome, black</p>
+<p>SKU: KL3813, KL3813B</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket</s:tag>
+    <s:tag>bin dump</s:tag>
+    <s:tag>Dump bin</s:tag>
+    <s:tag>dump bin display</s:tag>
+    <s:tag>dump bins</s:tag>
+    <s:tag>dump bins for sale</s:tag>
+    <s:tag>metal dump bins</s:tag>
+    <s:tag>retail dump bins</s:tag>
+    <s:tag>wire dump baskets</s:tag>
+    <s:tag>wire dump bin</s:tag>
+    <s:tag>wire dump bins retail</s:tag>
+    <s:tag>wire dump bins retail display</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10461212562</id>
+      <title>CHROME</title>
+      <s:price currency="CAD">47.60</s:price>
+      <s:sku>KL3813</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10461212562</id>
+      <title>BLACK</title>
+      <s:price currency="CAD">40.20</s:price>
+      <s:sku>KL3813B</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/10461114194</id>
+    <published>2017-08-23T13:39:15-04:00</published>
+    <updated>2017-08-23T13:39:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/24-high-sign-holder-for-dump-bin"/>
+    <title>24&quot; high sign holder for dump bin - KL3807-SIGN</title>
+    <s:type>Shopping basket and dump bin</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/dumping_bin_sign_holder_65ea2e0b-b48c-41b3-a716-bac24fd2f898.jpg?v=1551722041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Shopping basket and dump bin<br>
+        <strong>Price: </strong>
+            3.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24 - inch high sign holder for dump bin,</p>
+<p>Available in black, white, and chrome.</p>
+<p>SKU: KL3807-SIGN-B for black, <span>KL3807-SIGN-W for white, KL3807-SIGN-C for chrome</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dump bin</s:tag>
+    <s:tag>sign holder</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10461114194</id>
+      <title>black</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>KL3807-SIGN-B</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10461114194</id>
+      <title>white</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>KL3807-SIGN-W</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10461114194</id>
+      <title>chrome</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>KL3807-SIGN-C</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/10460901586</id>
+    <published>2017-08-23T12:51:21-04:00</published>
+    <updated>2017-08-23T12:51:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/square-dump-table-dumping-bin"/>
+    <title>Square dump table dumping bin -KL3808</title>
+    <s:type>Shopping basket and dump bin</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/square_dump_table.jpg?v=1556849989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Shopping basket and dump bin<br>
+        <strong>Price: </strong>
+            188.60 - 310.00
+            <a href="https://storefixtureshowcase.ca/products/square-dump-table-dumping-bin">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square dump table dumping bin. Levelers included.</p>
+<p>Available in 36" x 36", 48" x 48". 32" high.</p>
+<p>Black, white, and chrome.</p>
+<p>SKU: KL3808-36B for black, KL3808-36W for white, KL3808-36C for chrome 36 x 36 x 32 - inch dumping bin</p>
+<p>KL3808-48B for black, KL3808-48W for white, KL3808-48C for chrome</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best dump bins</s:tag>
+    <s:tag>bin dump</s:tag>
+    <s:tag>Dump bin</s:tag>
+    <s:tag>dump bin display</s:tag>
+    <s:tag>dump bins</s:tag>
+    <s:tag>dump bins for sale</s:tag>
+    <s:tag>large retail dump bins</s:tag>
+    <s:tag>metal dump bins</s:tag>
+    <s:tag>promotional dump bins</s:tag>
+    <s:tag>retail dump bins</s:tag>
+    <s:tag>shop dump bins</s:tag>
+    <s:tag>wire dump baskets</s:tag>
+    <s:tag>wire dump bin</s:tag>
+    <s:tag>wire dump bins retail</s:tag>
+    <s:tag>wire dump bins retail display</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10460901586</id>
+      <title>36&quot;x36&quot; / black</title>
+      <s:price currency="CAD">188.60</s:price>
+      <s:sku>KL3808-36B</s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10460901586</id>
+      <title>36&quot;x36&quot; / white</title>
+      <s:price currency="CAD">188.60</s:price>
+      <s:sku>KL3808-36W</s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10460901586</id>
+      <title>36&quot;x36&quot; / chrome</title>
+      <s:price currency="CAD">236.00</s:price>
+      <s:sku>KL3808-36C</s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10460901586</id>
+      <title>48&quot;x48&quot; / black</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>KL3808-48B</s:sku>
+      <s:grams>41277</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10460901586</id>
+      <title>48&quot;x48&quot; / white</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>KL3808-48W</s:sku>
+      <s:grams>41277</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10460901586</id>
+      <title>48&quot;x48&quot; / chrome</title>
+      <s:price currency="CAD">310.00</s:price>
+      <s:sku>KL3808-48C</s:sku>
+      <s:grams>41277</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/10460743250</id>
+    <published>2017-08-23T12:46:51-04:00</published>
+    <updated>2017-08-23T12:46:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/rolling-dump-bin"/>
+    <title>Rolling dump bin - KL3805</title>
+    <s:type>Shopping basket and dump bin</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/rolling_dumping_bin.jpg?v=1556850528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Shopping basket and dump bin<br>
+        <strong>Price: </strong>
+            276.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rolling dump bin. 48" x 48" x 30" H.</p>
+<p>Including four 3" industrial locking wheels.</p>
+<p>Available in chrome finish.</p>
+<p>SKU: KL3805</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best dump bins</s:tag>
+    <s:tag>Dump bin</s:tag>
+    <s:tag>dump bin display</s:tag>
+    <s:tag>dump bins</s:tag>
+    <s:tag>dump bins for sale</s:tag>
+    <s:tag>large retail dump bins</s:tag>
+    <s:tag>metal dump bins</s:tag>
+    <s:tag>promotional dump bins</s:tag>
+    <s:tag>retail dump bins</s:tag>
+    <s:tag>shop dump bins</s:tag>
+    <s:tag>wire dump bin</s:tag>
+    <s:tag>wire dump bins retail</s:tag>
+    <s:tag>wire dump bins retail display</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/10460743250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">276.80</s:price>
+      <s:sku>KL3805</s:sku>
+      <s:grams>41277</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8740683794</id>
+    <published>2017-01-19T17:05:00-05:00</published>
+    <updated>2017-01-19T17:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/folding-wire-dump-bin"/>
+    <title>Folding wire dump bin - DP24, DP18, KL3809</title>
+    <s:type>Shopping basket and dump bin</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/dumping_bin.jpg?v=1551722556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Shopping basket and dump bin<br>
+        <strong>Price: </strong>
+            40.20 - 90.60
+            <a href="https://storefixtureshowcase.ca/products/folding-wire-dump-bin">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Folding wire dump bin with 4 positions to adjust the shelf. Packed in flat bar, easy to ship and carry.</p>
+<p>Available in black, white and chrome finish,</p>
+<p>12 x 12 x 33 -inch high, 18 x 18 x 33 - inch high or 24 x 24 x 33 - inch high.</p>
+<p>SKU/AB code: DP18B for black, DP18W for white, DP18 for chrome <span>18 x 18 x 33 - inch</span><span> dump bin</span></p>
+<p><span>DP24B for black, DP24W for white, DP24 for chrome 24 x 24 x 33 - inch dump bin</span></p>
+<p><span>SKU: KL3809B for black, KL3809W for white, KL3809C for chrome 12 x 12 x 33 -inch dump bin</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best dump bins</s:tag>
+    <s:tag>bin dump</s:tag>
+    <s:tag>dump basket</s:tag>
+    <s:tag>Dump bin</s:tag>
+    <s:tag>dump bin display</s:tag>
+    <s:tag>dump bins</s:tag>
+    <s:tag>dump bins for sale</s:tag>
+    <s:tag>large retail dump bins</s:tag>
+    <s:tag>metal dump bins</s:tag>
+    <s:tag>promotional dump bins</s:tag>
+    <s:tag>retail display bins</s:tag>
+    <s:tag>retail dump bins</s:tag>
+    <s:tag>shop dump bins</s:tag>
+    <s:tag>wire display bins</s:tag>
+    <s:tag>wire dump baskets</s:tag>
+    <s:tag>wire dump bin</s:tag>
+    <s:tag>wire dump bins retail</s:tag>
+    <s:tag>wire dump bins retail display</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740683794</id>
+      <title>18&quot;x18&quot;x33&quot; / black</title>
+      <s:price currency="CAD">60.70</s:price>
+      <s:sku>DP18B</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740683794</id>
+      <title>18&quot;x18&quot;x33&quot; / white</title>
+      <s:price currency="CAD">60.70</s:price>
+      <s:sku>DP18W</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740683794</id>
+      <title>18&quot;x18&quot;x33&quot; / chrome</title>
+      <s:price currency="CAD">71.90</s:price>
+      <s:sku>DP18</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740683794</id>
+      <title>24&quot;x24&quot;x33&quot; / black</title>
+      <s:price currency="CAD">75.20</s:price>
+      <s:sku>DP24B</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740683794</id>
+      <title>24&quot;x24&quot;x33&quot; / white</title>
+      <s:price currency="CAD">75.20</s:price>
+      <s:sku>DP24W</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740683794</id>
+      <title>24&quot;x24&quot;x33&quot; / chrome</title>
+      <s:price currency="CAD">90.60</s:price>
+      <s:sku>DP24</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740683794</id>
+      <title>12&quot;x12&quot;x33&quot; / black</title>
+      <s:price currency="CAD">40.20</s:price>
+      <s:sku>KL3809B</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740683794</id>
+      <title>12&quot;x12&quot;x33&quot; / white</title>
+      <s:price currency="CAD">40.20</s:price>
+      <s:sku>KL3809W</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740683794</id>
+      <title>12&quot;x12&quot;x33&quot; / chrome</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>KL3809C</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8740574738</id>
+    <published>2017-01-19T16:23:00-05:00</published>
+    <updated>2017-01-19T16:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/plastic-shopping-basket"/>
+    <title>Plastic shopping basket- SB</title>
+    <s:type>Shopping basket and dump bin</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/shopping_basket.jpg?v=1556850742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Shopping basket and dump bin<br>
+        <strong>Price: </strong>
+            39.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="tab-switch__content" data-content="desc">
+<div class="product-description rte" itemprop="description">
+<p>2 in 1 Plastic shopping basket with handle and 2 wheels, easy to pull or carry. Make you shopping happy and easy. Red, 18" x 13" x 15".</p>
+<p>SKU/AB Code: SB</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket cart</s:tag>
+    <s:tag>basket cart on wheels</s:tag>
+    <s:tag>basket shopping cart</s:tag>
+    <s:tag>basket shopping trolley</s:tag>
+    <s:tag>basket trolley</s:tag>
+    <s:tag>basket trolley with wheels</s:tag>
+    <s:tag>grocery basket on wheels</s:tag>
+    <s:tag>market basket on wheels</s:tag>
+    <s:tag>market basket with wheels</s:tag>
+    <s:tag>plastic shopping basket</s:tag>
+    <s:tag>plastic shopping basket with wheels</s:tag>
+    <s:tag>plastic shopping trolley baskets</s:tag>
+    <s:tag>plastic trolley basket</s:tag>
+    <s:tag>portable shopping baskets</s:tag>
+    <s:tag>rolling basket cart</s:tag>
+    <s:tag>rolling grocery basket</s:tag>
+    <s:tag>rolling shopping basket</s:tag>
+    <s:tag>shopping basket</s:tag>
+    <s:tag>shopping basket on wheels with handle</s:tag>
+    <s:tag>shopping basket with wheels</s:tag>
+    <s:tag>shopping basket with wheels and handle</s:tag>
+    <s:tag>shopping cart with basket</s:tag>
+    <s:tag>shopping trolley basket on wheels</s:tag>
+    <s:tag>supermarket basket trolley</s:tag>
+    <s:tag>supermarket basket with wheels</s:tag>
+    <s:tag>trolley basket for supermarket</s:tag>
+    <s:tag>trolley basket on wheels</s:tag>
+    <s:tag>trolley basket with wheels</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740574738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>SB</s:sku>
+      <s:grams>28576</s:grams>
+    </s:variant>
+  </entry>
+</feed>

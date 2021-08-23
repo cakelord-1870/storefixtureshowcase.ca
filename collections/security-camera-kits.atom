@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://storefixtureshowcase.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://storefixtureshowcase.ca/collections/security-camera-kits.atom"/>
+  <title>Ablelin Store Fixtures Corp.</title>
+  <updated>2017-07-12T12:09:47-04:00</updated>
+  <author>
+    <name>Ablelin Store Fixtures Corp.</name>
+  </author>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9969917266</id>
+    <published>2017-07-12T12:09:47-04:00</published>
+    <updated>2017-07-12T12:09:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/hikvision-ip-security-camera-kit-8-channel-nvr-6-x-1080p-dome-cameras"/>
+    <title>Hikvision IP Security Camera Kit, 8 Channel NVR, 6 x 1080p Dome Cameras</title>
+    <s:type>security camera</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/security_camera_5.png?v=1499876001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>security camera<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="title">
+<p><strong>Camera Specifications:<br></strong></p>
+<ul>
+<li>2 Megapixel 1080p 1/2.8" CMOS image sensors</li>
+<li>2.8mm wide angle lense, 106 degree viewing angle</li>
+<li>Colour day, Smart IR night vision</li>
+<li>Night vision to 30M</li>
+<li>Digital WDR</li>
+<li>IP67 outdoor weatherproof rated</li>
+<li>Temperature rated to -30C</li>
+<li>Indoor/Outdoor IP66 rated</li>
+<li>Only 4.4x3.2 inches (111x82mm)</li>
+</ul>
+<p><strong>NVR Specifications</strong></p>
+<ul selectionpending="true">
+<li>8 Channel Recording</li>
+<li>8 PoE Camera ports</li>
+<li>Real time recording up to 1080p</li>
+<li>Supports cameras up to 5MP</li>
+<li>Preinstalled 2TB HDD</li>
+<li>Free PC CMS software</li>
+<li>Free iOs and Android apps</li>
+</ul>
+<p><strong>Kit includes:  <br></strong><span>DS-76048NI-EV2/8P NVR</span><br><span>6 x DS-2CD2120F-I Indoor/Outdoor dome cameras</span><br><br><span>Note:  Cameras connect to the NVR using CAT5E or CAT6 network cable with RJ45 connectors.  Cable is not included in this kit.</span></p>
+<h3>Product Information</h3>
+</div>
+<div class="product-description-content">
+<p>Protect your home, cottage or business with this high definition network security camera kit from Hikvision.  Record full colour 1080p video during the day with 6 indoor/outdoor compact dome cameras.  Night vision mode allows the for video capture in pitch black up to 30m / 100 feet.  <br><br>Video is recorded to the Hikvision NVR recorder with pre-installed hard drive.  Connections require only a single network cable to each camera for both video and power, with power provided by the PoE enabled NVR ports.  The cameras automatically configure themselves when plugged in to the NVR so set up is trouble free.<br><br>Video can be recorded 24/7, on schedule, or on motion with support for analytics such as line crossing and intrusion detection.  Live and recorded video can be accessed on the local network using the included free PC CMS software, as well as remotely over the Internet using free iOs and Android apps.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>security camera</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9969917266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku>I7608N2TA</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9969899922</id>
+    <published>2017-07-12T12:05:00-04:00</published>
+    <updated>2017-07-12T12:05:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/hikvision-ip-security-camera-kit-with-4-channel-nvr-and-4-x-1080p-dome-cameras-i7604n1ta"/>
+    <title>Hikvision IP Security Camera Kit with 4 Channel NVR and 4 x 1080p Dome Cameras ---I7604N1TA</title>
+    <s:type>security camera</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/security_camera_4.png?v=1499875784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>security camera<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="title">
+<p><strong>Camera Specifications:<br></strong></p>
+<ul>
+<li>2 Megapixel 1080p 1/2.8" CMOS image sensors</li>
+<li>2.8mm lens, 106 degree viewing angle</li>
+<li>Colour day, Smart IR night vision</li>
+<li>Night vision to 30M</li>
+<li>Digital WDR</li>
+<li>IP67 outdoor weatherproof rated</li>
+<li>Temperature rated to -30C</li>
+<li>Indoor/Outdoor IP66 rated</li>
+<li>Only 4.4x3.2 inches (111x82mm)</li>
+</ul>
+<p><strong>NVR Specifications</strong></p>
+<ul selectionpending="true">
+<li>4 Channel Recording</li>
+<li>4 PoE Camera ports</li>
+<li>Real time recording up to 1080p</li>
+<li>Supports cameras up to 5MP</li>
+<li>Preinstalled 1TB HDD</li>
+<li>Free PC CMS software</li>
+<li>Free iOs and Android apps</li>
+</ul>
+<p><strong>Kit includes:  <br></strong>DS-7604NI-EV1/4P NVR<br>4 x DS-2CD2120F-I Indoor/Outdoor dome cameras<br><br>Note:  Cameras connect to the NVR using CAT5E or CAT6 network cable with RJ45 connectors.  Cable is not included in this kit.</p>
+<h3>Product Information</h3>
+</div>
+<div class="product-description-content">
+<p>Protect your home, cottage or business with this high definition network security camera kit from Hikvision.  Record full colour 1080p video during the day with 4 indoor/outdoor compact dome cameras.  Night vision mode allows the for video capture in pitch black up to 30m / 100 feet.  <br><br>Video is recorded to the Hikvision NVR recorder with pre-installed hard drive.  Connections require only a single network cable to each camera for both video and power, with power provided by the PoE enabled NVR ports.  The cameras automatically configure themselves when plugged in to the NVR so set up is trouble free.<br><br>Video can be recorded 24/7, on schedule, or on motion with support for analytics such as line crossing and intrusion detection.  Live and recorded video can be accessed on the local network using the included free PC CMS software, as well as remotely over the Internet using free iOs and Android apps.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>security camera</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9969899922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku>I7604N1TA</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9969852050</id>
+    <published>2017-07-12T11:58:09-04:00</published>
+    <updated>2017-07-12T11:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/foscam-security-camera-kit-8-channel-poe-nvr-with-4-x-1080p-bullet-cameras-fn7108e-b4-2t"/>
+    <title>Foscam Security Camera Kit 8 Channel PoE NVR with 4 x 1080p Bullet Cameras ---FN7108E-B4-2T</title>
+    <s:type>security camera</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/security_camera_3.png?v=1499875418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>security camera<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="title">
+<h3>Foscam FN308XE-B4-2T Features:</h3>
+<ul>
+<li>Includes 4 high def 1080p indoor/outdoor ready cameras</li>
+<li>Includes 8 camera NVR with 2TB HD installed</li>
+<li>Includes 4 Ethernet cables</li>
+<li>1080p resolution per camera</li>
+<li>Real time recording</li>
+<li>Plug and play camera set up</li>
+<li>Easy remote access (broadband Internet required)</li>
+<li>Easy video searching and playback, single or quad camera playback</li>
+<li>Free iPhone and Android apps</li>
+<li>Cameras are true POE</li>
+<li>USB 3.0 port for much faster video exporting</li>
+<li>NVR supports Foscam and ONVIF cameras </li>
+<li>2 year manufacturer's warranty</li>
+<li>Do it yourself friendly</li>
+</ul>
+<p><br><strong>Kit includes</strong>:<br><br>Foscam FN3108XE 8 channel NVR with 2 TB HDD <br>4 x FI9900E 1080p Bullet Cameras<br>2 x 25M Ethernet camera cable<br>2 x 15M Ethernet camera cable<br>NVR Ethernet cable<br>NVR power supply<br>USB Mouse<br>HDMI cable<br>Security warning sign</p>
+<h3>Product Information</h3>
+<p>Protect your home or small business in true high definition with Foscam's do it yourself  security camera surveillance kit.  The kit includes a high definition NVR (recorder) capable of recording up to 8 1080p high def cameras in real time. Also included are 4 compact bullet style cameras with 1080p high resolution colour imaging during the day.  At night they automatically switch to night vision mode where they can see in pitch black up to 20 meters / 65 feet so you'll be able to catch the action day or night, lights on or off!</p>
+</div>
+<div class="product-description-content">
+<p><br>The included recorder saves video to a pre-installed 2 terabye hard drive and can be set to record each camera full time 24/7, on schedule, or based on motion sensing as needed, and when connected to a broadband always on Internet connection, it will also provide remote viewing using Foscam's free iPhone or Android apps.<br><br>The whole kit is designed to be plug and play - the cameras connect to the recorder using supplied Ethernet cables and are plug-and-play, with no network set up needed and no power supplies required for the cameras - they get their power from the recorder using PoE (power over Ethernet).  The recorder connects to your home or business wired network for local network viewing and has a built in VGA and HDMI port so you can connect a local monitor (not included).  <br><br>You can add additional FI9900E cameras to expand the kit.  It also supports other Foscam cameras and ONVIF cameras from other brands.  However we strongly recommend using Foscam cameras with this kit for the best experience and support.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>security camera</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9969852050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku>FN7108E-B4-2T</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9969808722</id>
+    <published>2017-07-12T11:51:30-04:00</published>
+    <updated>2017-07-12T11:51:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/foscam-wifi-security-camera-kit-with-4ch-nvr-and-4-wifi-720p-cameras-fn3104w-b4-1t"/>
+    <title>Foscam WiFi Security Camera Kit with 4CH NVR and 4 WIFI 720p Cameras ---FN3104W-B4-1T</title>
+    <s:type>security camera</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/security_camera_2.png?v=1499875051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>security camera<br>
+        <strong>Price: </strong>
+            468.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="title">
+<h3>Foscam FN3104W-B4-1T Security Camera Kit Features:</h3>
+</div>
+<div class="product-description-content">
+<ul>
+<li>High Definition Wireless Camera Kit</li>
+<li>Cameras may be used indoors and outdoors, IP66 weatherproof</li>
+<li>Cameras are 720p high definition</li>
+<li>Cameras have 30 built in IR LEDs for night vision up to 20 meters / 66 Feet</li>
+<li>4 Channel Camera Recorder (NVR)</li>
+<li>720p video recording per camera</li>
+<li>Record 24/7, on schedule, or on motion</li>
+<li>Wireless (WiFi) connection from Cameras directly to NVR</li>
+<li>Built in 1TB HDD</li>
+<li>Easy remote access via free iOs and Android apps</li>
+<li>2 year manufacturer warranty</li>
+</ul>
+<p><br><strong>FN3104W-B4-1T Kit includes:<br></strong></p>
+<ul>
+<li>4 Channel Wireless NVR with 1TB HDD installed</li>
+<li>4 x FI92800W WiFi Security Cameras</li>
+<li>4 x plug in power adapters for cameras</li>
+<li>1 x plug-in power adapter for NVR</li>
+</ul>
+<p><br>Note:  Cameras connect to NVR via on board WiFi.  NVR connects to your home or business network using a wired Ethernet cable.  Cameras don't need to be connect to NVR as they are WiFi but they do need to plug in to AC power using the included adapters.</p>
+<p>Protect your home, cottage, shop or small business with the Foscam high definition wireless security camera kit.  Enjoy high definition 720p colour video with automatic night vision mode that automatically turns on the built in infrared LEDs for viewing in pitch black! <br><br><span><strong>Easy Installation Using Wireless Cameras<br></strong></span><br>The NVR (recorder) and cameras have their own separate WiFi network, and the cameras will automatically pair with the recorder when everything is powered up.  The cameras come with their own plug-in power supplies so you won't have to worry about recharging or replacing batteries.  Since the NVR has it's own WiFi access point built in for the cameras it can stream in high def and it doesn't chew up your home's WiFi bandwidth.  The system is optimized for long range wireless.<br><br><strong><span>Indoor and Outdoor Night Vision Cameras<br></span></strong><br>The cameras are IP66 rated for indoor and outdoor use.  The mini bullet styling is compact and unobtrusive.  Don't miss anything even in the dark - these cameras are full colour during the day and automatically switch to night vision mode using the built in infrared LEDs when the light goes away.  They can see in pitch black up to 20 meters / 60 feet in night vision mode.<br><br><strong><span>Record The Action and Check It Out Remotely</span></strong><br><br>The NVR records high definition video directly to a built in hard drive.  You can choose to record 24/7, on schedule or based on motion events.  Use the free iOs or Android apps to remotely check in on your cameras over the Internet any time.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>security camera</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9969808722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">468.88</s:price>
+      <s:sku>FN3104W-B4-1T</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9969754258</id>
+    <published>2017-07-12T10:54:40-04:00</published>
+    <updated>2017-07-12T10:54:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/foscam-ip-security-camera-kit-with-8-channel-nvr-and-4-poe-720p-bullet-cameras-fn3108e-b4-1t"/>
+    <title>Foscam IP Security Camera Kit with 8 Channel NVR and 4 PoE 720p Bullet Cameras ---FN3108E-B4-1T</title>
+    <s:type>security camera</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/security_camera_1.png?v=1499874494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>security camera<br>
+        <strong>Price: </strong>
+            478.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>What's Included:</span><br></strong><br>Foscam 8 Camera NVR Recorder<br>4 x 720p Foscam FI9800E Security Cameras<br>2 x 25M (100 ft) Ethernet cables for cameras<br>2 x 15 (50 ft) Ethernet cables for cameras<br>1 x NVR power supply<br>1 x 5 foot NVR Ethernet cable<br>1 x Mouse<br>Software CD</p>
+<p><strong>Camera Features:<br><span></span></strong></p>
+<ul>
+<li>IP66 weatherproof</li>
+<li>Compact design, only 97 x 67 x 64mm</li>
+<li>cable through the bracket prevents cable cutting</li>
+<li>PoE powered</li>
+<li>4mm fixed lens</li>
+<li>60 degree horizontal viewing angle</li>
+<li>1/4" Colour CMOS Sensor</li>
+<li>720p resolution (1280x720)</li>
+<li>Up to 20 meter night vision using built in IR LEDs</li>
+</ul>
+<p><strong></strong><strong>Recorder Features:</strong></p>
+<ul>
+<li>Supports up to 8 IP security cameras</li>
+<li>8 PoE (power over ethernet) camera ports</li>
+<li>Pre-installed 1 TB Hard drive (Supports HDD up to 4 TB)</li>
+<li>Record 24/7 or on schedule or on motion for each camera</li>
+<li>HDMI and VGA monitor connection</li>
+<li>Simple mouse driven GUI interface</li>
+<li>Free Windows software</li>
+<li>Free iOs and Android apps</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>security camera</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9969754258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">478.88</s:price>
+      <s:sku>FN3108E-B4-1T</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

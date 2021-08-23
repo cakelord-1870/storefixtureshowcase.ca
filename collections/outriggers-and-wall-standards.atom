@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://storefixtureshowcase.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://storefixtureshowcase.ca/collections/outriggers-and-wall-standards.atom"/>
+  <title>Ablelin Store Fixtures Corp.</title>
+  <updated>2017-06-13T11:46:49-04:00</updated>
+  <author>
+    <name>Ablelin Store Fixtures Corp.</name>
+  </author>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9759207954</id>
+    <published>2017-06-13T11:46:49-04:00</published>
+    <updated>2017-06-13T11:46:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/recessed-wall-standard"/>
+    <title>Recessed wall standard ---KL1409</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/recessed_standard.jpg?v=1556850604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            26.10 - 33.20
+            <a href="https://storefixtureshowcase.ca/products/recessed-wall-standard">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Recessed wall standard,</p>
+<p>1/2" slot, 1" OC.</p>
+<p>Available in 96" and 120" long,</p>
+<p>zinc finish.</p>
+<p>SKU: KL1409-96Z, KL1409-120Z</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>recessed wall standards</s:tag>
+    <s:tag>wall standard</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9759207954</id>
+      <title>96&quot;</title>
+      <s:price currency="CAD">26.10</s:price>
+      <s:sku>KL1409-96Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9759207954</id>
+      <title>120&quot;</title>
+      <s:price currency="CAD">33.20</s:price>
+      <s:sku>KL1409-120Z</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9755865746</id>
+    <published>2017-06-12T18:26:19-04:00</published>
+    <updated>2017-06-12T18:26:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/general-duty-single-slot-mini-wall-standard-kl1405"/>
+    <title>General duty single slot mini wall standard --- KL1405</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/mini_standards.jpg?v=1497307950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            5.95 - 10.85
+            <a href="https://storefixtureshowcase.ca/products/general-duty-single-slot-mini-wall-standard-kl1405">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>General duty single slot mini wall standard,</p>
+<p>1/2" slot, 1" OC. Available in 48", 60", 72", 96" long,</p>
+<p>Chrome finish.</p>
+<p>SKU: KL1405-48C, KL1405-60C, KL1405-72C, KL1405-96C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>single track wall standard</s:tag>
+    <s:tag>wall standard</s:tag>
+    <s:tag>wall standards</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755865746</id>
+      <title>48&quot;</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>KL1405-48C</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755865746</id>
+      <title>60&quot;</title>
+      <s:price currency="CAD">7.63</s:price>
+      <s:sku>KL1405-60C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755865746</id>
+      <title>72&quot;</title>
+      <s:price currency="CAD">9.23</s:price>
+      <s:sku>KL1405-72C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755865746</id>
+      <title>96&quot;</title>
+      <s:price currency="CAD">10.85</s:price>
+      <s:sku>KL1405-96C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9755826770</id>
+    <published>2017-06-12T18:00:45-04:00</published>
+    <updated>2017-06-12T18:00:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/heavy-duty-double-slot-wall-standard-kl1404"/>
+    <title>Heavy duty double slot wall standard ---KL1404</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/medium_duty_double_slot_wall_standard_e5992d66-8d3c-4d39-8aa9-f38018c52733.jpg?v=1497306352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            9.04 - 32.48
+            <a href="https://storefixtureshowcase.ca/products/heavy-duty-double-slot-wall-standard-kl1404">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavy duty double slot wall standard,</p>
+<p>1/2" slot, 1" OC. Available in 48", 60", 72", 84", 96", 120" and 144" long,</p>
+<p>Chrome and Zinc finish.</p>
+<p>SKU: Chrome finish - KL1404-48C, KL1404-60C, KL1404-72C, KL1404-84C, KL1404-96C, KL1404-120C</p>
+<p>Zinc finish - KL1404-48Z, KL1404-60Z, KL1404-72Z, KL1404-84Z, KL1404-96Z, KL1404-120Z</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wall standard</s:tag>
+    <s:tag>wall standards</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>48&quot; / chrome</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>KL1404-48C</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>48&quot; / zinc</title>
+      <s:price currency="CAD">9.04</s:price>
+      <s:sku>KL1404-48Z</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>60&quot; / chrome</title>
+      <s:price currency="CAD">13.67</s:price>
+      <s:sku>KL1404-60C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>60&quot; / zinc</title>
+      <s:price currency="CAD">10.83</s:price>
+      <s:sku>KL1404-60Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>72&quot; / chrome</title>
+      <s:price currency="CAD">16.75</s:price>
+      <s:sku>KL1404-72C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>72&quot; / zinc</title>
+      <s:price currency="CAD">13.72</s:price>
+      <s:sku>KL1404-72Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>84&quot; / chrome</title>
+      <s:price currency="CAD">19.72</s:price>
+      <s:sku>KL1404-84C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>84&quot; / zinc</title>
+      <s:price currency="CAD">15.03</s:price>
+      <s:sku>KL1404-84Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>96&quot; / chrome</title>
+      <s:price currency="CAD">23.06</s:price>
+      <s:sku>KL1404-96C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>96&quot; / zinc</title>
+      <s:price currency="CAD">18.04</s:price>
+      <s:sku>KL1404-96Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>120&quot; / chrome</title>
+      <s:price currency="CAD">26.84</s:price>
+      <s:sku>KL1404-120C</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>120&quot; / zinc</title>
+      <s:price currency="CAD">22.63</s:price>
+      <s:sku>KL1404-120Z</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>144&quot; / chrome</title>
+      <s:price currency="CAD">32.48</s:price>
+      <s:sku>KL1404-144C</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755826770</id>
+      <title>144&quot; / zinc</title>
+      <s:price currency="CAD">25.81</s:price>
+      <s:sku>KL1404-144Z</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9755768338</id>
+    <published>2017-06-12T17:48:04-04:00</published>
+    <updated>2017-06-12T17:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/heavy-duty-single-slot-wall-standard-kl1403"/>
+    <title>Heavy duty single slot wall standard --- KL1403</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/medium_duty_standard_large_fdc2b62a-c14b-4d32-b742-f84943dbcac1.jpg?v=1497304809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            5.85 - 22.25
+            <a href="https://storefixtureshowcase.ca/products/heavy-duty-single-slot-wall-standard-kl1403">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavy duty single slot wall standard,</p>
+<p>1/2" slot, 1" OC. Available in 48", 60", 72", 84", 96", 120" and 144" long,</p>
+<p>Chrome and Zinc finish.</p>
+<p>SKU: Chrome finish - KL1403-48C, KL1403-60C, KL1403-72C, KL1403-84C, KL1403-96C, KL1403-120C, KL1403-144C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wall standard</s:tag>
+    <s:tag>wall standard rack</s:tag>
+    <s:tag>wall standards</s:tag>
+    <s:tag>wall standards and brackets</s:tag>
+    <s:tag>wall standards for shelving</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>48&quot; / chrome</title>
+      <s:price currency="CAD">7.60</s:price>
+      <s:sku>KL1403-48C</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>48&quot; / zinc</title>
+      <s:price currency="CAD">5.85</s:price>
+      <s:sku>KL1403-48Z</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>60&quot; / chrome</title>
+      <s:price currency="CAD">8.55</s:price>
+      <s:sku>KL1403-60C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>60&quot; / zinc</title>
+      <s:price currency="CAD">7.46</s:price>
+      <s:sku>KL1403-60Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>72&quot; / chrome</title>
+      <s:price currency="CAD">11.16</s:price>
+      <s:sku>KL1403-72C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>72&quot; / zinc</title>
+      <s:price currency="CAD">9.09</s:price>
+      <s:sku>KL1403-72Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>84&quot; / chrome</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>KL1403-84C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>84&quot; / zinc</title>
+      <s:price currency="CAD">10.58</s:price>
+      <s:sku>KL1403-84Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>96&quot; / chrome</title>
+      <s:price currency="CAD">14.90</s:price>
+      <s:sku>KL1403-96C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>96&quot; / zinc</title>
+      <s:price currency="CAD">12.06</s:price>
+      <s:sku>KL1403-96Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>120&quot; / chrome</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KL1403-120C</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>120&quot; / zinc</title>
+      <s:price currency="CAD">14.81</s:price>
+      <s:sku>KL1403-120Z</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>144&quot; / chrome</title>
+      <s:price currency="CAD">22.25</s:price>
+      <s:sku>KL1403-144C</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755768338</id>
+      <title>144&quot; / zinc</title>
+      <s:price currency="CAD">18.26</s:price>
+      <s:sku>KL1403-144Z</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9755646738</id>
+    <published>2017-06-12T17:22:42-04:00</published>
+    <updated>2017-06-12T17:22:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/medium-duty-double-slot-wall-standard-kl1401"/>
+    <title>Medium duty double slot wall standard ---KL1401</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/medium_duty_double_slot_wall_standard.jpg?v=1556891168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            5.40 - 20.01
+            <a href="https://storefixtureshowcase.ca/products/medium-duty-double-slot-wall-standard-kl1401">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium duty double slot wall standard,</p>
+<p>1/2" slot, 1" OC. Available in 36", 48", 60", 72", 84", 96" long.</p>
+<p>Chrome and Zinc finish.</p>
+<p>SKU: Chrome finish - KL1401-36C, KL1401-48C, KL1401-60C, KL1401-72C, KL1401-84C, KL1401-96C</p>
+<p>Zinc finish - KL1401-36Z, KL1401-48Z, KL1401-60Z, KL1401-72Z, KL1401-84Z, KL1401-96Z</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wall standard</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>36&quot; / chrome</title>
+      <s:price currency="CAD">6.96</s:price>
+      <s:sku>KL1401-36C</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>36&quot; / zinc</title>
+      <s:price currency="CAD">5.40</s:price>
+      <s:sku>KL1401-36Z</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>48&quot; / chrome</title>
+      <s:price currency="CAD">9.40</s:price>
+      <s:sku>KL1401-48C</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>48&quot; / zinc</title>
+      <s:price currency="CAD">7.11</s:price>
+      <s:sku>KL1401-48Z</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>60&quot; / chrome</title>
+      <s:price currency="CAD">12.29</s:price>
+      <s:sku>KL1401-60C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>60&quot; / zinc</title>
+      <s:price currency="CAD">8.41</s:price>
+      <s:sku>KL1401-60Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>72&quot; / chrome</title>
+      <s:price currency="CAD">14.26</s:price>
+      <s:sku>KL1401-72C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>72&quot; / zinc</title>
+      <s:price currency="CAD">10.59</s:price>
+      <s:sku>KL1401-72Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>84&quot; / chrome</title>
+      <s:price currency="CAD">17.31</s:price>
+      <s:sku>KL1401-84C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>84&quot; / zinc</title>
+      <s:price currency="CAD">13.23</s:price>
+      <s:sku>KL1401-84Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>96&quot; / chrome</title>
+      <s:price currency="CAD">20.01</s:price>
+      <s:sku>KL1401-96C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755646738</id>
+      <title>96&quot; / zinc</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>KL1401-96Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9755635154</id>
+    <published>2017-06-12T17:07:30-04:00</published>
+    <updated>2017-06-12T17:07:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/medium-duty-single-slot-wall-standard-kl-1400"/>
+    <title>Medium duty single slot wall standard --- KL1400</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/medium_duty_standard_large_fa8f30b3-02ee-4ac1-b237-f862657216bb.jpg?v=1497302547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            3.27 - 19.40
+            <a href="https://storefixtureshowcase.ca/products/medium-duty-single-slot-wall-standard-kl-1400">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium duty single slot wall standard,</p>
+<p>1/2" slot, 1" OC. Available in 24", 36", 48", 60", 72", 84", 96", 120" and 144" long.</p>
+<p>Chrome and Zinc finish ( 24" long one only in chrome finish)</p>
+<p>SKU:  Chrome finish - KL1400-24C, KL1400-36C, KL1400-48C, KL1400-60C, KL1400-72C, KL1400-84C, KL1400-96C, KL1400-120C, KL1400-144C</p>
+<p>Zinc finish - KL1400-36Z, KL1400-48Z, KL1400-60Z, KL1400-72Z, KL1400-84Z, KL1400-96Z, KL1400-120Z, KL1400-144Z</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wall standard</s:tag>
+    <s:tag>wall standard rack</s:tag>
+    <s:tag>wall standards</s:tag>
+    <s:tag>wall standards for shelving</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>24&quot; / chrome</title>
+      <s:price currency="CAD">3.27</s:price>
+      <s:sku>KL1400-24C</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>36&quot; / chrome</title>
+      <s:price currency="CAD">4.85</s:price>
+      <s:sku>KL1400-36C</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>36&quot; / zinc</title>
+      <s:price currency="CAD">3.93</s:price>
+      <s:sku>KL1400-36Z</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>48&quot; / chrome</title>
+      <s:price currency="CAD">6.59</s:price>
+      <s:sku>KL1400-48C</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>48&quot; / zinc</title>
+      <s:price currency="CAD">4.86</s:price>
+      <s:sku>KL1400-48Z</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>60&quot; / chrome</title>
+      <s:price currency="CAD">8.36</s:price>
+      <s:sku>KL1400-60C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>60&quot; / zinc</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>KL1400-60Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>72&quot; / chrome</title>
+      <s:price currency="CAD">9.82</s:price>
+      <s:sku>KL1400-72C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>72&quot; / zinc</title>
+      <s:price currency="CAD">7.38</s:price>
+      <s:sku>KL1400-72Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>84&quot; / chrome</title>
+      <s:price currency="CAD">11.15</s:price>
+      <s:sku>KL1400-84C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>84&quot; / zinc</title>
+      <s:price currency="CAD">8.69</s:price>
+      <s:sku>KL1400-84Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>96&quot; / chrome</title>
+      <s:price currency="CAD">13.45</s:price>
+      <s:sku>KL1400-96C</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>96&quot; / zinc</title>
+      <s:price currency="CAD">9.84</s:price>
+      <s:sku>KL1400-96Z</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>120&quot; / chrome</title>
+      <s:price currency="CAD">15.80</s:price>
+      <s:sku>KL1400-120C</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>120&quot; / zinc</title>
+      <s:price currency="CAD">12.42</s:price>
+      <s:sku>KL1400-120Z</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>144&quot; / chrome</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku>KL1400-144C</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9755635154</id>
+      <title>144&quot; / zinc</title>
+      <s:price currency="CAD">15.39</s:price>
+      <s:sku>KL1400-144Z</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9626579730</id>
+    <published>2017-05-26T15:30:45-04:00</published>
+    <updated>2017-05-26T15:30:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/1-1-4-diameter-round-tubing-outrigger-kl-1303"/>
+    <title>1 - 1/4&quot; diameter round tubing outrigger --- KL1303</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/outrigger_KL_1303_017b4df3-fa78-4336-ae4f-9dbacec4f593.jpg?v=1497301234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            56.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 - 1/4" diameter round tubing outrigger,</p>
+<p>Upright of <span>1 - 1/4" diameter round</span> tubing with 1/2" slot, 1" OC, 96" high with one 24" wall mount arms, Chrome finish.</p>
+<p>SKU: KL1303</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>outrigger</s:tag>
+    <s:tag>outrigger wall system</s:tag>
+    <s:tag>wall standard</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9626579730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.30</s:price>
+      <s:sku>KL1303</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9626543762</id>
+    <published>2017-05-26T15:25:47-04:00</published>
+    <updated>2017-05-26T15:25:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/1x-2-rectangular-tubing-outrigger-of-90-high-kl-1302"/>
+    <title>1&quot;x 2&quot; rectangular tubing outrigger of 90&quot; high --- KL1302</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/outrigger_KL_1302_636fcfed-39ff-43e1-8498-ea06963bc717.jpg?v=1497300563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1"x 2" rectangular tubing outrigger,</p>
+<p>Upright of 1"x 2" rectangular tubing with 1/2" slot, 1" OC,</p>
+<p>90" high with one 15" wall mount arms,</p>
+<p>Chrome finish.</p>
+<p>SKU: KL1302</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>outrigger</s:tag>
+    <s:tag>outrigger wall system</s:tag>
+    <s:tag>wall standard</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9626543762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>KL1302</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9626501010</id>
+    <published>2017-05-26T15:21:07-04:00</published>
+    <updated>2017-05-26T15:21:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/1-square-tubing-outrigger-of-96-high-kl-1301-96"/>
+    <title>1&quot; square tubing outrigger of 96&quot; high --- KL1301-96</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/outrigger_KL_1301-96_c97da270-a4dc-46d4-a661-2315478a5c2d.jpg?v=1497300027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            45.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1" square tubing outrigger,</p>
+<p>Upright of 1" square tubing with 1/2" slot, 1" OC, 96" high with three 14" wall mount arms in chrome finish.</p>
+<p>SKU: KL1301-96</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>outrigger</s:tag>
+    <s:tag>outrigger wall system</s:tag>
+    <s:tag>wall standard</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9626501010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.50</s:price>
+      <s:sku>KL1301-96</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9626464210</id>
+    <published>2017-05-26T15:11:57-04:00</published>
+    <updated>2017-05-26T15:11:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/1-square-tubing-outrigger-84-high-kl-1301"/>
+    <title>1&quot; square tubing outrigger 84&quot; high --- KL1301</title>
+    <s:type>outriggers and wall standards</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/outrigger_KL_1301-84.jpg?v=1497299948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>outriggers and wall standards<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1" square tubing outrigger,</p>
+<p>Upright of 1" square tubing with 1/2" slot, 1" OC, 84" high with two 14" wall mount arms in chrome finish.</p>
+<p>SKU: KL1301</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ourrigger</s:tag>
+    <s:tag>outrigger wall system</s:tag>
+    <s:tag>wall standard</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9626464210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.00</s:price>
+      <s:sku>KL 1301</s:sku>
+      <s:grams>18144</s:grams>
+    </s:variant>
+  </entry>
+</feed>

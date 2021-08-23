@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://storefixtureshowcase.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://storefixtureshowcase.ca/collections/plastic-shopping-bags.atom"/>
+  <title>Ablelin Store Fixtures Corp.</title>
+  <updated>2017-03-08T15:26:00-05:00</updated>
+  <author>
+    <name>Ablelin Store Fixtures Corp.</name>
+  </author>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8988227538</id>
+    <published>2017-03-08T15:26:00-05:00</published>
+    <updated>2017-03-08T15:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/plastic-shopping-bags"/>
+    <title>Plastic shopping bags</title>
+    <s:type>Plastic shopping bag</s:type>
+    <s:vendor>Store Fixture Showcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/PLASTIC_shopping_BAG.jpg?v=1556850746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Store Fixture Showcase<br>
+        <strong>Type: </strong>Plastic shopping bag<br>
+        <strong>Price: </strong>
+            47.00 - 81.00
+            <a href="https://storefixtureshowcase.ca/products/plastic-shopping-bags">(37 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="dvTitle" class="pagetitle_product">
+<p>Die cut Plastic shopping bags are widely used for retail goods and trade shows, making your shopping easy, convenient, and joyful.</p>
+<p>Assorted colors, black, white, <span>Pink, Purple, Red, Green, Blue, Navy blue, Red pink  and Lime Green.</span></p>
+<p><span>9"x 12"- 1000 pcs / box, </span></p>
+<p><span>13"x 17", 17" x 19", 20" x 23"- 500 pcs/ box.</span></p>
+<p><span>Sold by box.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>9&quot;x12&quot; / black</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>PB-B912</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>9&quot;x12&quot; / white</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>PB-W912</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>9&quot;x12&quot; / pink</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>PB-PI912</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>9&quot;x12&quot; / purple</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>PB-PU912</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>9&quot;x12&quot; / blue</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>PB-BU912</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>9&quot;x12&quot; / navy blue</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>PB-NB912</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>9&quot;x12&quot; / green</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>PB-G912</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>9&quot;x12&quot; / lime green</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>PB-LG912</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>9&quot;x12&quot; / red pink</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>PB-RP912</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>13&quot;x17&quot; / black</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>PB-B1317</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>13&quot;x17&quot; / white</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>PB-W1317</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>13&quot;x17&quot; / pink</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>PB-PI1317</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>13&quot;x17&quot; / purple</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>PB-PU1317</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>13&quot;x17&quot; / blue</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>PB-BU1317</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>13&quot;x17&quot; / navy blue</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>PB-NB1317</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>13&quot;x17&quot; / green</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>PB-G1317</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>13&quot;x17&quot; / lime green</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>PB-LG1317</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>13&quot;x17&quot; / red pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>PB-RP1317</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / black</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>PB-B1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / white</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>PB-W1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / pink</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>PB-PI1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / purple</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>PB-PU1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / blue</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>PB-BU1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / navy blue</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>PB-NB1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / green</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>PB-G1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / lime green</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>PB-LG1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / red</title>
+      <s:price currency="CAD">61.50</s:price>
+      <s:sku>PB-R1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>17&quot;x19&quot; / red pink</title>
+      <s:price currency="CAD">61.50</s:price>
+      <s:sku>PB-RP1719</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>20&quot;x 23&quot; / black</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>PB-B2023</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>20&quot;x 23&quot; / white</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>PB-W2023</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>20&quot;x 23&quot; / pink</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>PB-P2023</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>20&quot;x 23&quot; / purple</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>PB-PU2023</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>20&quot;x 23&quot; / blue</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>PB-BU2023</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>20&quot;x 23&quot; / navy blue</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>PB-NB2023</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>20&quot;x 23&quot; / green</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>PB-G2023</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>20&quot;x 23&quot; / lime green</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>PB-LG2023</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8988227538</id>
+      <title>20&quot;x 23&quot; / red pink</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>PB-RP2023</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+</feed>

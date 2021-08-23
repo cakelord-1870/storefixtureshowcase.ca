@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://storefixtureshowcase.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://storefixtureshowcase.ca/collections/hanger-and-hanger-accessories.atom"/>
+  <title>Ablelin Store Fixtures Corp.</title>
+  <updated>2018-08-22T14:25:01-04:00</updated>
+  <author>
+    <name>Ablelin Store Fixtures Corp.</name>
+  </author>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/1407427182664</id>
+    <published>2018-08-22T14:25:01-04:00</published>
+    <updated>2018-08-22T14:25:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/14-wire-pants-hanger-with-rubber-sleeve-per-100pcs-kl4009b"/>
+    <title>14&quot; Wire Pants Hanger with black Rubber Sleeve--- Per 100pcs--- KL4009B</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/hanger.jpg?v=1534962523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            137.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14" Wire Pants Hanger with black Rubber Sleeve.</p>
+<p>Chrome Finish. 100 pcs per box.</p>
+<p> SKU: KL4009B</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>metal</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/1407427182664</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">137.00</s:price>
+      <s:sku>KL4009B</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8862815890</id>
+    <published>2017-02-12T17:05:00-05:00</published>
+    <updated>2017-02-12T17:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/16-wire-suit-hanger-with-loop-hook"/>
+    <title>16 - inch Wire Suit  Hanger with Loop Hook---Per 100pcs - KL4003</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/suit_hanger.jpg?v=1486937220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>16" Wire Suit  Hanger with Loop Hook. Chrome Finish. 100pcs per box</p>
+<p>SKU: KL4003---16" Wire Suit Hanger with Loop Hook</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>wire</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8862815890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku>KL4003</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8862807698</id>
+    <published>2017-02-12T17:02:00-05:00</published>
+    <updated>2017-02-12T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/12-wire-skirt-hanger-with-swivel-hook"/>
+    <title>12- inch Wire Skirt Hanger with Swivel Hook---Per 100pcs - KL4004</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/skirt_hanger.jpg?v=1486937095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" Wire Skirt Hanger with Swivel Hook. Chrome Finish. 100pcs per box</p>
+<p>SKU; KL4004---12" Wire Skirt Hanger with Swivel Hook</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>wire</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8862807698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku>KL4004</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8862798930</id>
+    <published>2017-02-12T17:00:00-05:00</published>
+    <updated>2017-02-12T17:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/14-wire-pants-hanger-with-rubber-sleeve"/>
+    <title>14 - inch Wire Pants Hanger with white Rubber Sleeve--- Per 100 pcs --- KL4009W</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/pant_hanger.jpg?v=1486936969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            137.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14" Wire Pants Hanger with white Rubber Sleeve.</p>
+<p>Chrome Finish. 100pcs per box.</p>
+<p> SKU: KL4009W</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>wire</s:tag>
+    <s:tag>wire pant hanger</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8862798930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">137.00</s:price>
+      <s:sku>KL4009W</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8862791122</id>
+    <published>2017-02-12T16:58:00-05:00</published>
+    <updated>2017-02-12T16:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/16-wire-lingerie-hanger-with-loop-hook"/>
+    <title>16&quot; Wire Lingerie Hanger with Loop Hook---Per 100pcs - KL4006</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/lingerie_hanger.jpg?v=1486936844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>16" Wire Lingerie Hanger with Loop Hook. Chrome Finish. 100pcs per box</p>
+<p>SKU: KL4006---16" Wire Lingerie Hanger with Loop Hook</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>wire</s:tag>
+    <s:tag>wire hanger</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8862791122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>KL4006</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8862782610</id>
+    <published>2017-02-12T16:56:00-05:00</published>
+    <updated>2017-02-12T16:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/16-wire-dress-blouse-hanger"/>
+    <title>16&quot; Wire Dress / Blouse Hanger---Per 100pcs - KL4002</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/dress_and_blouse_hanger.jpg?v=1486936721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>16" wire dress / blouse hanger with loop hook, chrome finish. 100pcs per box</p>
+<p>SKU: KL4002---16" Wire Dress / Blouse Hanger</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>wire</s:tag>
+    <s:tag>wire hanger</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8862782610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku>KL4002</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8862773394</id>
+    <published>2017-02-12T16:53:00-05:00</published>
+    <updated>2017-02-12T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/12-wire-bikini-hanger-with-swivel-hook"/>
+    <title>12&quot; Wire Bikini Hanger With Swivel Hook---Per 100pcs - KL4007</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/bikini_hanger.jpg?v=1486936598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" Wire Bikini Hanger with Swivel Hook, Chrome Finish. 100pcs per box</p>
+<p>SKU: KL4007---12" Wire Bikini Hanger With Swivel Hook</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>wire</s:tag>
+    <s:tag>wire hanger</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8862773394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">260.00</s:price>
+      <s:sku>KL4007</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8698703186</id>
+    <published>2017-01-10T14:12:00-05:00</published>
+    <updated>2017-01-10T14:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/plastic-suit-hanger"/>
+    <title>Plastic Suit Hanger---Per 100pcs - 630CL - 10</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/plastic_suit_hanger.jpg?v=1556850729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17" Plastic Suit Hanger, Clear.</p>
+<p>Swivel Hook with Adjustable Padded Metal Clips.</p>
+<p>To Display Both Jacket and Pants in One Hanger. 100 pcs per box.</p>
+<p>SKU/AB Code: 630CL-10---17" Plastic Suit Hanger</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8698703186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>630CL-10</s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8691006930</id>
+    <published>2017-01-07T14:47:00-05:00</published>
+    <updated>2017-01-07T14:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/plastic-top-hanger"/>
+    <title>Plastic Top Hanger - Per 500pcs - 814-01, 816-01</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Plastic_top_hanger.jpg?v=1556850725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            95.00 - 110.00
+            <a href="https://storefixtureshowcase.ca/products/plastic-top-hanger">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plastic Top Hanger, Good for T-Shirt and Jacket.</p>
+<p>White, Available in 14" and 16". 500pcs per box.</p>
+<p>SKU/AB Code: 814-01---14" Plastic Top Hanger</p>
+<p>                        816-01---16" Plastic Top Hanger</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>plastic hanger</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8691006930</id>
+      <title>14&quot;</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>814-01</s:sku>
+      <s:grams>47627</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8691006930</id>
+      <title>16&quot;</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>816-01</s:sku>
+      <s:grams>56699</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8690977234</id>
+    <published>2017-01-07T14:36:00-05:00</published>
+    <updated>2017-01-07T14:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/metal-hook-pant-hanger"/>
+    <title>Metal Hook Pant Hanger--Per 200pcs - 1000-03, 1003-03</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/metal_hook_pant_hanger.jpg?v=1556891161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            88.00 - 92.00
+            <a href="https://storefixtureshowcase.ca/products/metal-hook-pant-hanger">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal Hook Pant hanger,</p>
+<p>Available in 12" and 10", black. 200pcs per box</p>
+<p>SKU/AB Code: 1000-03---10" Metal Hook Pant Hanger</p>
+<p><span>SKU/AB Code: </span>1003-03---12" Metal Hook Pant Hanger</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>pant hanger</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8690977234</id>
+      <title>12&quot;</title>
+      <s:price currency="CAD">92.00</s:price>
+      <s:sku>1003-03</s:sku>
+      <s:grams>15422</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8690977234</id>
+      <title>10&quot;</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>1000-03</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8690724754</id>
+    <published>2017-01-07T13:25:00-05:00</published>
+    <updated>2017-01-07T13:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/plastic-hook-pant-hanger"/>
+    <title>Plastic Hook Pant Hanger--- Per 200pcs --- 1004-00, 1001-03, 1002-00</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/999_2.png?v=1556850811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            74.00 - 78.00
+            <a href="https://storefixtureshowcase.ca/products/plastic-hook-pant-hanger">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plastic Hook Pant Hanger, Available in 12", 10" and 8" Wide. Black. 200 per box.</p>
+<p><span>SKU/AB code: </span>1004-00---8" Plastic Hook Pant Hanger</p>
+<p><span>SKU/AB code:</span>1001-03---10" Plastic Hook Pant Hanger</p>
+<p>SKU/AB code: 1002-00---12" Plastic Hook Pant Hanger</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>pant hanger</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8690724754</id>
+      <title>8&quot;</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku>1004-00</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8690724754</id>
+      <title>10&quot;</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>1001-03</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8690724754</id>
+      <title>12&quot;</title>
+      <s:price currency="CAD">78.00</s:price>
+      <s:sku>1002-00</s:sku>
+      <s:grams>15422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8687625810</id>
+    <published>2017-01-06T17:39:00-05:00</published>
+    <updated>2017-01-06T17:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/hanger-stacker"/>
+    <title>Hanger Stacker - CS19-T-10</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/hanger_stacker.jpg?v=1483742526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hanger Stacker holds up to 100 hangers,</p>
+<p>Chrome.</p>
+<p>SKU/AB code: CS19-T-10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>hanger stacker</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8687625810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>CS19-T-10</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8687622802</id>
+    <published>2017-01-06T17:35:00-05:00</published>
+    <updated>2017-01-06T17:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/hanger-retriever"/>
+    <title>Hanger retriever - P48, P60&quot;</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/hanger_retriver.jpg?v=1483742380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            10.00 - 12.50
+            <a href="https://storefixtureshowcase.ca/products/hanger-retriever">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>48" and 60" Hanger Retriever with wood handle,</p>
+<p>Chrome.</p>
+<p>SKU/AB code: P48, P60"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>hanger retriver</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8687622802</id>
+      <title>48&quot; long</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>P48</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8687622802</id>
+      <title>60&quot; long</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>P60&quot;</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8687614930</id>
+    <published>2017-01-06T17:30:00-05:00</published>
+    <updated>2017-01-06T17:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/plastic-skirt-and-pants-hanger"/>
+    <title>Plastic skirt and pants hanger--- Per 100pcs --- 12-10, 660-14</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/14_inch_skirt_hanger.jpg?v=1556850740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            79.00 - 85.00
+            <a href="https://storefixtureshowcase.ca/products/plastic-skirt-and-pants-hanger">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" and 14" Plastic Skirt and Pants Hanger,</p>
+<p>Metal clips, Swivel Hooks,</p>
+<p>Heavy-duty, Clear,</p>
+<p>100 pcs/ box.</p>
+<p> </p>
+<p>SKU: 12-10---12" Plastic Skirt and Pants Hanger</p>
+<p>SKU/AB Code: 660-14---14" Plastic Skirt and Pants Hanger</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>pant hanger</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>skirt hanger</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8687614930</id>
+      <title>12&quot;</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>12-10</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8687614930</id>
+      <title>14&quot;</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>660-14</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8687609938</id>
+    <published>2017-01-06T17:28:00-05:00</published>
+    <updated>2017-01-06T17:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/clear-plastic-top-hanger"/>
+    <title>Clear Plastic Top Hanger ----  Per 100 pcs - AH-840, 670-10</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/sh17c_large_801c58d0-aab8-4b2b-a63d-457fcd89b77c.jpg?v=1492792126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" and 14" Clear Plastic Top Hanger,</p>
+<p>Swivel Hook, Heavy-duty, Clear,</p>
+<p>100 pcs / box.</p>
+<p>SKU: AH-840---12" Clear Plastic Top Hanger</p>
+<p><span>SKU/AB Code: </span>670-10---14" Clear Plastic Top Hanger</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8687609938</id>
+      <title>12&quot;</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>AH-840</s:sku>
+      <s:grams>18144</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8687609938</id>
+      <title>14&quot;</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>670-10</s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8687606354</id>
+    <published>2017-01-06T17:23:00-05:00</published>
+    <updated>2017-01-06T17:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/17-plastic-top-hanger"/>
+    <title>17&quot; Plastic Top Hanger--- Per 100pcs - 9510, 9510-03</title>
+    <s:type>hangers and accessories</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/SH17B_1024x1024_cdd9ed3c-189b-41b1-91c6-716d8f9d6333.jpg?v=1483743604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>hangers and accessories<br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17" Plastic Top Hanger,</p>
+<p>Swivel Hook,</p>
+<p>Heavy-duty, Clear or Black, </p>
+<p>100 pcs / box.</p>
+<p> </p>
+<p><span>SKU/AB Code: </span> 9510-03---17" Black Plastic Top Hanger</p>
+<p><span>SKU/AB Code: </span>9510---17" Clear Plastic Top Hanger</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanger</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>plastic hanger</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8687606354</id>
+      <title>black</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>9510-03</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8687606354</id>
+      <title>clear</title>
+      <s:price currency="CAD">51.00</s:price>
+      <s:sku>9510</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+</feed>

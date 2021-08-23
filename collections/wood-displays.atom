@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://storefixtureshowcase.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://storefixtureshowcase.ca/collections/wood-displays.atom"/>
+  <title>Ablelin Store Fixtures Corp.</title>
+  <updated>2018-03-19T12:59:18-04:00</updated>
+  <author>
+    <name>Ablelin Store Fixtures Corp.</name>
+  </author>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/204721979410</id>
+    <published>2018-03-19T12:59:18-04:00</published>
+    <updated>2018-03-19T12:59:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/wood-shelves-1"/>
+    <title>Wood shelves - W1023MT, W1023CT, W1045M, W1045C, W1047MT, W1047CT</title>
+    <s:type>wood display</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/malemine_laminate_shelf_56f85614-cbcb-4842-898c-325d0019e458.png?v=1556848255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            16.74 - 33.77
+            <a href="https://storefixtureshowcase.ca/products/wood-shelves-1">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Melamine laminate shelves in maple and cherry finish.</p>
+<p>Available sizes: 10 x 22 3/4, 10 x 45 3/4, 10 x 46 3/4 - inch, thickness 3/4 - inch</p>
+<p>SKU/AB Code: <span>10 x 22 3/4 - inch W1023MT for maple, W1023CT for cherry</span></p>
+<p>                        <span>10 x 45 3/4 - inch W1045M for maple, W1045C for cherry</span></p>
+<p><span>                         10 x 46 3/4 - inch W1047MT  for maple, W1047CT for cherry</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic wooden shelves</s:tag>
+    <s:tag>cheap wooden shelves</s:tag>
+    <s:tag>laminated wood shelf</s:tag>
+    <s:tag>maple wood shelves</s:tag>
+    <s:tag>open wood shelves</s:tag>
+    <s:tag>ready made wooden shelves</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>simple wood shelf</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>wood shelves canada</s:tag>
+    <s:tag>wood shelves near me</s:tag>
+    <s:tag>wooden display shelf</s:tag>
+    <s:tag>wooden shelf online</s:tag>
+    <s:tag>wooden shelf price</s:tag>
+    <s:tag>wooden shelves</s:tag>
+    <s:tag>wooden shelves for sale</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204721979410</id>
+      <title>10&quot;x22 3/4&quot; / maple</title>
+      <s:price currency="CAD">16.74</s:price>
+      <s:sku>W1023MT</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204721979410</id>
+      <title>10&quot;x22 3/4&quot; / cherry</title>
+      <s:price currency="CAD">16.74</s:price>
+      <s:sku>W1023CT</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204721979410</id>
+      <title>10&quot;x45 3/4&quot; / maple</title>
+      <s:price currency="CAD">33.77</s:price>
+      <s:sku>W1045M</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204721979410</id>
+      <title>10&quot;x45 3/4&quot; / cherry</title>
+      <s:price currency="CAD">33.77</s:price>
+      <s:sku>W1045C</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204721979410</id>
+      <title>10&quot;x 46 3/4&quot; / maple</title>
+      <s:price currency="CAD">33.77</s:price>
+      <s:sku>W1047MT</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204721979410</id>
+      <title>10&quot;x 46 3/4&quot; / cherry</title>
+      <s:price currency="CAD">33.77</s:price>
+      <s:sku>W1047CT</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/204710051858</id>
+    <published>2018-03-19T12:39:55-04:00</published>
+    <updated>2018-03-19T12:39:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/wood-shelves"/>
+    <title>Wood shelves - 48 inch wood shelf, 24 inch wood shelf - W1224B, W1224MT, W1248B, W1248MT</title>
+    <s:type>wood display</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/wood_malemine_laminate_shelf.jpg?v=1556848319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            20.15 - 36.12
+            <a href="https://storefixtureshowcase.ca/products/wood-shelves">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Melamine laminate shelves in black, maple finish.</p>
+<p>12 x 24, and 12 x 48 - inch, thickness 11/16<span> - inch</span></p>
+<p>SKU/AB Code:  12 X 24 - inch, W1224B for black, W1224MT for maple,</p>
+<p>                          12 x 48 - inch W1248B for black, W1248MT for maple</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 x 24 wood shelf</s:tag>
+    <s:tag>12 x 48 wood shelf</s:tag>
+    <s:tag>24 inch wood shelf</s:tag>
+    <s:tag>4 foot wood shelf</s:tag>
+    <s:tag>48 inch wood shelf</s:tag>
+    <s:tag>48 inch wood wall shelf</s:tag>
+    <s:tag>basic wooden shelves</s:tag>
+    <s:tag>black and wood shelves</s:tag>
+    <s:tag>black laminated wood shelf</s:tag>
+    <s:tag>black wood shelf</s:tag>
+    <s:tag>black wood wall shelves</s:tag>
+    <s:tag>cheap wooden shelves</s:tag>
+    <s:tag>laminated wood shelf</s:tag>
+    <s:tag>light wood shelves</s:tag>
+    <s:tag>maple wood shelves</s:tag>
+    <s:tag>open wood shelves</s:tag>
+    <s:tag>ready made wooden shelves</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>simple wood shelf</s:tag>
+    <s:tag>wood</s:tag>
+    <s:tag>wood and black shelves</s:tag>
+    <s:tag>wood shelves canada</s:tag>
+    <s:tag>wood shelves near me</s:tag>
+    <s:tag>wooden display shelf</s:tag>
+    <s:tag>wooden shelf online</s:tag>
+    <s:tag>wooden shelf price</s:tag>
+    <s:tag>wooden shelves</s:tag>
+    <s:tag>wooden shelves for sale</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204710051858</id>
+      <title>12&quot; x 24&quot; / maple</title>
+      <s:price currency="CAD">20.15</s:price>
+      <s:sku>W1224MT</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204710051858</id>
+      <title>12&quot; x 24&quot; / black</title>
+      <s:price currency="CAD">20.15</s:price>
+      <s:sku>W1224B</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204710051858</id>
+      <title>12&quot;x48&quot; / maple</title>
+      <s:price currency="CAD">36.12</s:price>
+      <s:sku>W1248MT</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/204710051858</id>
+      <title>12&quot;x48&quot; / black</title>
+      <s:price currency="CAD">36.12</s:price>
+      <s:sku>W1248B</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8871909906</id>
+    <published>2017-02-14T17:04:00-05:00</published>
+    <updated>2017-02-14T17:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/24-x-24-slatwall-h-display-unit"/>
+    <title>Slatwall display - 24 x 24 x 54 - inch Slatwall H display unit - WD17M, WD17C</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwall_H_display_maple_24x24.jpg?v=1487110240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            358.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slatwall H display unit, 24 x 24 x 54 - inch</p>
+<p>Durable melamine laminate surface,</p>
+<p>Maple, Cherry finish available.</p>
+<p>This item is shipped knockdown.</p>
+<p>SKU/AB Code: WD17M for maple, WD17C for cherry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>freestanding slatwall display</s:tag>
+    <s:tag>freestanding slatwall display stands</s:tag>
+    <s:tag>freestanding slatwall unit</s:tag>
+    <s:tag>gondola shelving with slatwall backings</s:tag>
+    <s:tag>retail slatwall shelving</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall clothing display</s:tag>
+    <s:tag>slatwall display</s:tag>
+    <s:tag>slatwall display fixtures</s:tag>
+    <s:tag>slatwall display units</s:tag>
+    <s:tag>slatwall fixtures</s:tag>
+    <s:tag>slatwall fixtures retail</s:tag>
+    <s:tag>slatwall floor displays</s:tag>
+    <s:tag>slatwall gondola</s:tag>
+    <s:tag>slatwall gondola display</s:tag>
+    <s:tag>slatwall gondola shelving</s:tag>
+    <s:tag>slatwall h unit</s:tag>
+    <s:tag>slatwall rack</s:tag>
+    <s:tag>slatwall retail display</s:tag>
+    <s:tag>slatwall retail display systems</s:tag>
+    <s:tag>slatwall shelving units</s:tag>
+    <s:tag>slatwall store fixtures</s:tag>
+    <s:tag>slatwall unit</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8871909906</id>
+      <title>maple</title>
+      <s:price currency="CAD">358.00</s:price>
+      <s:sku>WD17M</s:sku>
+      <s:grams>134717</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8871909906</id>
+      <title>cherry</title>
+      <s:price currency="CAD">358.00</s:price>
+      <s:sku>WD17C</s:sku>
+      <s:grams>134717</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8528706130</id>
+    <published>2016-11-26T12:57:00-05:00</published>
+    <updated>2016-11-26T12:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/l-shape-slatwall-merchandiser"/>
+    <title>Slatwall display - L shape slatwall merchandiser --- WDSGM / WDSGB/WDSGW</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/L_shape_slatwall_merchandiser_black.png?v=1480183443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            705.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L Shape Slatwall Merchandiser,</p>
+<p>One sided slatwall display,</p>
+<p>48(L) x 20(D) x 80(H) x 6(B) - inch</p>
+<p>Available in black, white and maple finish.</p>
+<p>SKU/AB Code: WDSGB for black, WDSGM for maple, WDSGW for white</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>freestanding slatwall display</s:tag>
+    <s:tag>freestanding slatwall display stand</s:tag>
+    <s:tag>freestanding slatwall display stands</s:tag>
+    <s:tag>freestanding slatwall unit</s:tag>
+    <s:tag>Freestanding Slatwall Unit Black</s:tag>
+    <s:tag>Freestanding Slatwall Unit Maple</s:tag>
+    <s:tag>L shape</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall display</s:tag>
+    <s:tag>slatwall display fixtures</s:tag>
+    <s:tag>slatwall display units</s:tag>
+    <s:tag>slatwall fixtures</s:tag>
+    <s:tag>slatwall fixtures retail</s:tag>
+    <s:tag>slatwall floor displays</s:tag>
+    <s:tag>slatwall retail display</s:tag>
+    <s:tag>slatwall retail display systems</s:tag>
+    <s:tag>slatwall store fixtures</s:tag>
+    <s:tag>slatwall unit</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8528706130</id>
+      <title>black</title>
+      <s:price currency="CAD">705.00</s:price>
+      <s:sku>WDSGB</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8528706130</id>
+      <title>maple</title>
+      <s:price currency="CAD">705.00</s:price>
+      <s:sku>WDSGM</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8528706130</id>
+      <title>white</title>
+      <s:price currency="CAD">705.00</s:price>
+      <s:sku>WDSGW</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8516395538</id>
+    <published>2016-11-24T16:32:00-05:00</published>
+    <updated>2016-11-24T16:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slatwall-rotating-tower"/>
+    <title>Slatwall rotating tower --- AO-SW-2020-B, AO-SW-2020-M, AO-SW-2020-W</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwall_rotating_tower_white.jpg?v=1556850132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            394.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slatwall rotating tower,</p>
+<p>20 x 20 x 60 - inch</p>
+<p>Available in black, white and maple.</p>
+<p>SKU: AO-SW-2020-B for black, AO-SW-2020-M for maple, AO-SW-2020-W for white</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>freestanding slatwall display</s:tag>
+    <s:tag>freestanding slatwall display stands</s:tag>
+    <s:tag>freestanding slatwall unit</s:tag>
+    <s:tag>slatwall clothing display</s:tag>
+    <s:tag>slatwall cube tower</s:tag>
+    <s:tag>slatwall display</s:tag>
+    <s:tag>slatwall display fixtures</s:tag>
+    <s:tag>slatwall display units</s:tag>
+    <s:tag>slatwall fixtures</s:tag>
+    <s:tag>slatwall fixtures retail</s:tag>
+    <s:tag>slatwall floor displays</s:tag>
+    <s:tag>slatwall retail display</s:tag>
+    <s:tag>slatwall retail display systems</s:tag>
+    <s:tag>slatwall store fixtures</s:tag>
+    <s:tag>slatwall tower</s:tag>
+    <s:tag>slatwall tower display</s:tag>
+    <s:tag>slatwall unit</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8516395538</id>
+      <title>black</title>
+      <s:price currency="CAD">394.68</s:price>
+      <s:sku>AO-SW-2020-B</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8516395538</id>
+      <title>maple</title>
+      <s:price currency="CAD">394.68</s:price>
+      <s:sku>AO-SW-2020-M</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8516395538</id>
+      <title>white</title>
+      <s:price currency="CAD">394.68</s:price>
+      <s:sku>AO-SW-2020-W</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8516219538</id>
+    <published>2016-11-24T15:48:00-05:00</published>
+    <updated>2016-11-24T15:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slatwall-cube-tower"/>
+    <title>Slatwall display - Cube Tower --- WDCTB, WDCTM, WDCTW</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwall_cube_tower.jpg?v=1590097197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            494.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="tab-switch__content" data-content="desc">
+<h4 class="product-description rte" itemprop="description">Slatwall Cube Tower</h4>
+<p class="product-description rte" itemprop="description">24 x 24 x 54 - inch,</p>
+<p class="product-description rte" itemprop="description">Available in maple, black and white,</p>
+<p class="product-description rte" itemprop="description">Durable melamine laminate surface.</p>
+<p class="product-description rte" itemprop="description">SKU/AB Code: WDCTB  for black, WDCTM for maple, WDCTW for white</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>freestanding slatwall display</s:tag>
+    <s:tag>freestanding slatwall display stands</s:tag>
+    <s:tag>freestanding slatwall unit</s:tag>
+    <s:tag>slatwall clothing display</s:tag>
+    <s:tag>slatwall cube tower</s:tag>
+    <s:tag>slatwall display</s:tag>
+    <s:tag>slatwall display fixtures</s:tag>
+    <s:tag>slatwall display units</s:tag>
+    <s:tag>slatwall fixtures</s:tag>
+    <s:tag>slatwall fixtures retail</s:tag>
+    <s:tag>slatwall floor displays</s:tag>
+    <s:tag>slatwall retail display</s:tag>
+    <s:tag>slatwall retail display systems</s:tag>
+    <s:tag>slatwall store fixtures</s:tag>
+    <s:tag>slatwall tower</s:tag>
+    <s:tag>slatwall tower display</s:tag>
+    <s:tag>slatwall unit</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8516219538</id>
+      <title>black</title>
+      <s:price currency="CAD">494.38</s:price>
+      <s:sku>WDCTB</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8516219538</id>
+      <title>maple</title>
+      <s:price currency="CAD">494.38</s:price>
+      <s:sku>WDCTM</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8516219538</id>
+      <title>white</title>
+      <s:price currency="CAD">494.38</s:price>
+      <s:sku>WDCTW</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8515689618</id>
+    <published>2016-11-24T12:56:00-05:00</published>
+    <updated>2016-11-24T12:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slatwall-t-display"/>
+    <title>Slatwall display - T display - WD13MT, WD13W, WD13C, AO-SM-SD(B)</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwall_T_merchandiser_display.jpg?v=1556850084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            401.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slatwall T display unit, 25 1/2 x 24  x 54 - inch</p>
+<p>Durable melamine laminate surface,</p>
+<p>Maple, white and black available.</p>
+<p>This item is shipped knockdown.</p>
+<p>SKU/AB Code: WD13MT for maple, WD13W for white, WD13C for cherry</p>
+<p>SKU: AO-SM-SD(B) for black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>freestanding slatwall display</s:tag>
+    <s:tag>freestanding slatwall display stands</s:tag>
+    <s:tag>freestanding slatwall unit</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall clothing display</s:tag>
+    <s:tag>slatwall display</s:tag>
+    <s:tag>slatwall display fixtures</s:tag>
+    <s:tag>slatwall display units</s:tag>
+    <s:tag>slatwall fixtures</s:tag>
+    <s:tag>slatwall fixtures retail</s:tag>
+    <s:tag>slatwall floor displays</s:tag>
+    <s:tag>slatwall gondola</s:tag>
+    <s:tag>slatwall gondola display</s:tag>
+    <s:tag>slatwall gondola shelving</s:tag>
+    <s:tag>slatwall rack</s:tag>
+    <s:tag>slatwall retail display</s:tag>
+    <s:tag>slatwall retail display systems</s:tag>
+    <s:tag>slatwall store fixtures</s:tag>
+    <s:tag>slatwall unit</s:tag>
+    <s:tag>T shape</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8515689618</id>
+      <title>black</title>
+      <s:price currency="CAD">401.72</s:price>
+      <s:sku>AO-SM-SD(B)</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8515689618</id>
+      <title>white</title>
+      <s:price currency="CAD">401.72</s:price>
+      <s:sku>WD13W</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8515689618</id>
+      <title>maple</title>
+      <s:price currency="CAD">401.72</s:price>
+      <s:sku>WD13MT</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8515689618</id>
+      <title>cherry</title>
+      <s:price currency="CAD">401.72</s:price>
+      <s:sku>WD13C</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8515478738</id>
+    <published>2016-11-24T12:10:00-05:00</published>
+    <updated>2016-11-24T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/3-tier-oval-display-table"/>
+    <title>3 Tier table display - 3 tier oval display table - AO-W3T-M</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/3_tier_oval_table.jpg?v=1480009662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            509.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 tier Oval table, 60 x 42 x 42 - inch</p>
+<p>Available in maple,</p>
+<p>This item is shipped knock down</p>
+<p>SKU: AO-W3T-M</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 tier</s:tag>
+    <s:tag>3 tier retail display</s:tag>
+    <s:tag>3 tier retail display table</s:tag>
+    <s:tag>3 tier table display</s:tag>
+    <s:tag>oval</s:tag>
+    <s:tag>table</s:tag>
+    <s:tag>table tier display stand</s:tag>
+    <s:tag>three tier display table</s:tag>
+    <s:tag>tiered display table</s:tag>
+    <s:tag>tiered retail display</s:tag>
+    <s:tag>tiered retail display tables</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8515478738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">509.08</s:price>
+      <s:sku>AO-W3T-M</s:sku>
+      <s:grams>136531</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8514984786</id>
+    <published>2016-11-24T11:31:00-05:00</published>
+    <updated>2016-11-24T11:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/4-way-slatwall-displays"/>
+    <title>Slatwall fixtures - 4 way slatwall displays --- WD9B, WD9MT, WD9W, WD9C</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwall_4_way_display.jpg?v=1480006124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            410.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 way slatwall display unit, 36 x 36 x 54 - inch</p>
+<p>Durable melamine laminate surface,</p>
+<p>Available in maple, cherry,black and white,</p>
+<p>This unit is shipped knock down.</p>
+<p>SKU/AB Code: WD9B for black, WD9MT for maple, WD9W for white, WD9C for cherry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 Way Gondola Slatwall Black</s:tag>
+    <s:tag>4 Way Gondola Slatwall Cherry</s:tag>
+    <s:tag>4 Way Gondola Slatwall Maple</s:tag>
+    <s:tag>4 Way Gondola Unit</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>freestanding slatwall display</s:tag>
+    <s:tag>freestanding slatwall display stands</s:tag>
+    <s:tag>freestanding slatwall unit</s:tag>
+    <s:tag>retail slatwall shelving</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall clothing display</s:tag>
+    <s:tag>slatwall display</s:tag>
+    <s:tag>slatwall display fixtures</s:tag>
+    <s:tag>slatwall display units</s:tag>
+    <s:tag>slatwall fixtures</s:tag>
+    <s:tag>slatwall fixtures retail</s:tag>
+    <s:tag>slatwall floor displays</s:tag>
+    <s:tag>slatwall rack</s:tag>
+    <s:tag>slatwall retail display</s:tag>
+    <s:tag>slatwall retail display systems</s:tag>
+    <s:tag>slatwall shelving units</s:tag>
+    <s:tag>slatwall store fixtures</s:tag>
+    <s:tag>slatwall unit</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8514984786</id>
+      <title>black</title>
+      <s:price currency="CAD">410.31</s:price>
+      <s:sku>WD9B</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8514984786</id>
+      <title>white</title>
+      <s:price currency="CAD">410.31</s:price>
+      <s:sku>WD9W</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8514984786</id>
+      <title>maple</title>
+      <s:price currency="CAD">410.31</s:price>
+      <s:sku>WD9MT</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8514984786</id>
+      <title>cherry</title>
+      <s:price currency="CAD">410.31</s:price>
+      <s:sku>WD9C</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8514700370</id>
+    <published>2016-11-24T11:08:00-05:00</published>
+    <updated>2016-11-24T11:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/rectangular-3-tier-tables"/>
+    <title>Display table - 3 Tier table display - Rectangular 3 tier table --- RC3TIERM, RC3TIERB</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/rectangular_3_tier_table.jpg?v=1556850600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            560.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 tier rectangle table, 60 x 42 x 42 - inch</p>
+<p>Available in maple and black,</p>
+<p>This item is shipped knock down.</p>
+<p>SKU/AB Code: RC3TIERM for maple, RC3TIERB for black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 tier</s:tag>
+    <s:tag>3 tier retail display</s:tag>
+    <s:tag>3 tier retail display table</s:tag>
+    <s:tag>3 tier table display</s:tag>
+    <s:tag>black display table</s:tag>
+    <s:tag>boutique display tables</s:tag>
+    <s:tag>clothing display table</s:tag>
+    <s:tag>clothing store display tables</s:tag>
+    <s:tag>commercial display tables</s:tag>
+    <s:tag>display stand table</s:tag>
+    <s:tag>display table</s:tag>
+    <s:tag>display tables for retail stores</s:tag>
+    <s:tag>display tables for sale</s:tag>
+    <s:tag>display tables for shops</s:tag>
+    <s:tag>display tables for stores</s:tag>
+    <s:tag>merchandise table display</s:tag>
+    <s:tag>merchandising tables retail</s:tag>
+    <s:tag>product display table</s:tag>
+    <s:tag>rectangular</s:tag>
+    <s:tag>retail display tables</s:tag>
+    <s:tag>retail display tables for sale</s:tag>
+    <s:tag>shoe display table</s:tag>
+    <s:tag>store display tables</s:tag>
+    <s:tag>store table display</s:tag>
+    <s:tag>t shirt table display</s:tag>
+    <s:tag>table</s:tag>
+    <s:tag>table tier display stand</s:tag>
+    <s:tag>three tier display table</s:tag>
+    <s:tag>tiered display table</s:tag>
+    <s:tag>tiered retail display</s:tag>
+    <s:tag>tiered retail display tables</s:tag>
+    <s:tag>wooden table display stand</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8514700370</id>
+      <title>black</title>
+      <s:price currency="CAD">560.05</s:price>
+      <s:sku>RC3TIERB</s:sku>
+      <s:grams>136531</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8514700370</id>
+      <title>maple</title>
+      <s:price currency="CAD">560.05</s:price>
+      <s:sku>RC3TIERM</s:sku>
+      <s:grams>136531</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8510439250</id>
+    <published>2016-11-23T16:10:00-05:00</published>
+    <updated>2016-11-23T16:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/3-tier-square-table"/>
+    <title>Display table - 3 tier table display - 3 tier square table --- 3TIEB, 3TIEM</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/3_tier_table.jpg?v=1480003117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            468.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="tab-switch__content" data-content="desc">
+<div class="product-description rte" itemprop="description">
+<p>3 tier square table, 48 x 48 x 42 - inch</p>
+<p>Available in maple and black,</p>
+<p>This item is shipped knock down.</p>
+<p>SKU/AB Code: 3TIEB for black, 3TIEM for maple</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 tier</s:tag>
+    <s:tag>3 tier retail display</s:tag>
+    <s:tag>3 tier retail display table</s:tag>
+    <s:tag>3 tier table display</s:tag>
+    <s:tag>black display table</s:tag>
+    <s:tag>boutique display tables</s:tag>
+    <s:tag>cheap display tables</s:tag>
+    <s:tag>clothing display table</s:tag>
+    <s:tag>clothing store display tables</s:tag>
+    <s:tag>commercial display tables</s:tag>
+    <s:tag>display stand table</s:tag>
+    <s:tag>display table</s:tag>
+    <s:tag>display tables for retail stores</s:tag>
+    <s:tag>display tables for sale</s:tag>
+    <s:tag>display tables for shops</s:tag>
+    <s:tag>display tables for stores</s:tag>
+    <s:tag>merchandise table display</s:tag>
+    <s:tag>merchandising tables retail</s:tag>
+    <s:tag>product display table</s:tag>
+    <s:tag>retail display tables</s:tag>
+    <s:tag>retail display tables for sale</s:tag>
+    <s:tag>shoe display table</s:tag>
+    <s:tag>square display table</s:tag>
+    <s:tag>store display tables</s:tag>
+    <s:tag>store table display</s:tag>
+    <s:tag>t shirt table display</s:tag>
+    <s:tag>table</s:tag>
+    <s:tag>table tier display stand</s:tag>
+    <s:tag>three tier display table</s:tag>
+    <s:tag>tiered display table</s:tag>
+    <s:tag>tiered retail display</s:tag>
+    <s:tag>tiered retail display tables</s:tag>
+    <s:tag>wooden table display stand</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8510439250</id>
+      <title>black</title>
+      <s:price currency="CAD">468.40</s:price>
+      <s:sku>3TIEB</s:sku>
+      <s:grams>89811</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8510439250</id>
+      <title>maple</title>
+      <s:price currency="CAD">468.40</s:price>
+      <s:sku>3TIEM</s:sku>
+      <s:grams>89811</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8510420562</id>
+    <published>2016-11-23T16:03:00-05:00</published>
+    <updated>2016-11-23T16:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slatwall-h-shape-displays"/>
+    <title>Slatwall display - H shape displays --- WD8B, WD8MT, WD8W, WD8C</title>
+    <s:type>wood display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwall_H_display_maple.jpg?v=1556850192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>wood display<br>
+        <strong>Price: </strong>
+            542.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Slatwall H display unit, 49 1/2 x 24 x 54 inch</p>
+<p>Durable melamine laminate surface,</p>
+<p>Maple , white, Cherry and black available.</p>
+<p>This item is shipped knock down.</p>
+<p>SKU/AB Code: WD8B for black, WD8MT for maple, WD8W for white, WD8C for cherry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>freestanding slatwall display</s:tag>
+    <s:tag>freestanding slatwall display stands</s:tag>
+    <s:tag>freestanding slatwall unit</s:tag>
+    <s:tag>gondola shelving with slatwall backings</s:tag>
+    <s:tag>retail slatwall shelving</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall clothing display</s:tag>
+    <s:tag>slatwall display</s:tag>
+    <s:tag>slatwall display fixtures</s:tag>
+    <s:tag>slatwall display units</s:tag>
+    <s:tag>slatwall fixtures</s:tag>
+    <s:tag>slatwall fixtures retail</s:tag>
+    <s:tag>slatwall floor displays</s:tag>
+    <s:tag>slatwall gondola</s:tag>
+    <s:tag>slatwall gondola display</s:tag>
+    <s:tag>slatwall gondola shelving</s:tag>
+    <s:tag>slatwall h unit</s:tag>
+    <s:tag>slatwall rack</s:tag>
+    <s:tag>slatwall retail display</s:tag>
+    <s:tag>slatwall retail display systems</s:tag>
+    <s:tag>slatwall shelving units</s:tag>
+    <s:tag>slatwall store fixtures</s:tag>
+    <s:tag>slatwall unit</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8510420562</id>
+      <title>black</title>
+      <s:price currency="CAD">542.58</s:price>
+      <s:sku>WD8B</s:sku>
+      <s:grams>134717</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8510420562</id>
+      <title>white</title>
+      <s:price currency="CAD">542.58</s:price>
+      <s:sku>WD8W</s:sku>
+      <s:grams>134717</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8510420562</id>
+      <title>maple</title>
+      <s:price currency="CAD">542.58</s:price>
+      <s:sku>WD8MT</s:sku>
+      <s:grams>134717</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8510420562</id>
+      <title>cherry</title>
+      <s:price currency="CAD">542.58</s:price>
+      <s:sku>WD8C</s:sku>
+      <s:grams>134717</s:grams>
+    </s:variant>
+  </entry>
+</feed>

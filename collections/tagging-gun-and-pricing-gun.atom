@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://storefixtureshowcase.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://storefixtureshowcase.ca/collections/tagging-gun-and-pricing-gun.atom"/>
+  <title>Ablelin Store Fixtures Corp.</title>
+  <updated>2017-01-17T16:43:00-05:00</updated>
+  <author>
+    <name>Ablelin Store Fixtures Corp.</name>
+  </author>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8733722578</id>
+    <published>2017-01-17T16:43:00-05:00</published>
+    <updated>2017-01-17T16:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/secur-a-tie-loop-fasteners"/>
+    <title>Secur-A-Tie loop fasteners - F08350</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/secur-a-tie.gif?v=1484689825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="center" style="text-align: left;">5"  Secur-A-Tie loop fasteners, Adjustable Beaded Locking Loop.</p>
+<p align="center" style="text-align: left;">5000 pieces per box.</p>
+<p align="center" style="text-align: left;">SKU: F08350</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tag</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8733722578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>F08350</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8733652562</id>
+    <published>2017-01-17T15:09:00-05:00</published>
+    <updated>2017-01-17T15:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/secur-a-tach-fasteners"/>
+    <title>Secur-a-tach fasteners - 08300</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/secur_tach.gif?v=1484688822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            8.75 - 9.95
+            <a href="https://storefixtureshowcase.ca/products/secur-a-tach-fasteners">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span>Secure-a-tach fasteners, made of Durable nylon resisting breaking. Ends snap together quickly and hold firmly.  </span></span><span>Available in 3" long, 5" long and 9" long. Sold by 1000 pieces per package.</span><br>SKU: F08301 for 9", F08302 for 3"</p>
+<p>SKU/AB code: 08300 for 5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>label</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8733652562</id>
+      <title>3&quot; long</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku>F08302</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8733652562</id>
+      <title>5&quot; long</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>08300</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8733652562</id>
+      <title>9&quot; long</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>F08301</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8733260818</id>
+    <published>2017-01-17T14:52:00-05:00</published>
+    <updated>2017-01-17T14:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/tag-with-style-size-price-information-1000-pieces-per-box"/>
+    <title>Tag with style, size, price information (1000 pieces per box) - A219</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/small_tag_2.gif?v=1484683129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tag with style size price information. <span> 1-1/8" x 1 3/4". 1000 pieces per box. sold by box.</span></p>
+<p><span>SKU/AB code: A219</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>label</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8733260818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>A219</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8733222354</id>
+    <published>2017-01-17T13:54:00-05:00</published>
+    <updated>2017-01-17T13:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/blank-stock-tag-1000-piece-box"/>
+    <title>Blank stock tag ( 1000 piece / box) - A210</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/small_tag.gif?v=1484682699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Blank stock tag, 1-1/8" x 1 3/4". 1000 pieces per box. sold by the box.</p>
+<p>SKU/AB code: A210</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tag</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8733222354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>A210</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8733000530</id>
+    <published>2017-01-17T13:44:00-05:00</published>
+    <updated>2017-01-17T13:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/two-line-10-character-label-for-two-line-label-hand-gun-pb2-230"/>
+    <title>Two line 10 character label for two line label hand gun, PB2-230 - T06302, T06298</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/2_line_10_character_Labels.gif?v=1556849660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Two-line 10 character label for two-line label handgun, PB2 -230, </span><span>Sato Double line 10 character price gun, label gun, hand labeller. </span><span>Available in white, red. 1000 stickers per roll. sold by the roll.</span></p>
+<p><span>SKU/AB code: T06302 for red, T06298 for white</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>label</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8733000530</id>
+      <title>Red permanent</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>T06302</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8733000530</id>
+      <title>white permanent</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>T06298</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8732947986</id>
+    <published>2017-01-17T13:23:00-05:00</published>
+    <updated>2017-01-17T13:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/two-line-8-character-label"/>
+    <title>Two line 8 character label for PB2-180 - T06281, T06278</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/2_line_8_charater_Labels.gif?v=1556849639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two-line 8 character label for two-line label handgun, PB2 -180, <span>Sato Double line 8 character price gun, label gun, hand labeller. </span>Available in white, red. 1250 stickers per roll. sold by the roll.</p>
+<p>SKU/AB code: T06281 for white, T06278 for red</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>label</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8732947986</id>
+      <title>white permanent</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>T06281</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8732947986</id>
+      <title>red permanent</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>T06278</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8730424850</id>
+    <published>2017-01-16T18:06:00-05:00</published>
+    <updated>2017-01-16T18:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/sato-double-line-10-character-price-gun-label-gun"/>
+    <title>Sato Double line 10 character price gun, PB2-230, label gun - 82640</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>Sato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/10_charactor_label_gun.jpg?v=1556850510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sato<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sato Double line 10 character price gun, label gun, hand labeller, prints 2 lines, 10 character each line. It allows you to mark thousands of merchandisers quickly and reliably.</p>
+<p>SKU: 82640</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hand label gun</s:tag>
+    <s:tag>pricing gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8730424850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>82640</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8730421906</id>
+    <published>2017-01-16T17:26:00-05:00</published>
+    <updated>2017-01-16T17:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/sato-double-line-pricing-gun-label-gun-hand-labeller"/>
+    <title>Sato Double line 8 character pricing gun  PB2-180 (Label gun/ hand labeller) -82626</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>Sato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/8_charactor_label_gun.jpg?v=1556850506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sato<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sato Double line 8 character price gun, label gun, hand labeler, prints 2 lines, 8 characters each line. It allows you to mark thousands of merchandisers quickly and reliably.</p>
+<p>SKU/AB code: 82626</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hand label gun</s:tag>
+    <s:tag>pricing gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8730421906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>82626</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8730258258</id>
+    <published>2017-01-16T16:03:00-05:00</published>
+    <updated>2017-01-16T16:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/single-line-label"/>
+    <title>Single line label (1500 pieces/ roll) - T09140, T09141, T09145</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/single_line_Labels.gif?v=1556850298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single line label for a single-line label handgun, Avery Dennison Mighty One labeler. Available in white, red, red(sale), green, yellow. 1500 stickers per roll. sold by the roll.</p>
+<p>SKU/AB code: T09140 for white, T09141 for red, T09145 for red sale</p>
+<p>SKU: T09142 for green, T09143 for yellow</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>label</s:tag>
+    <s:tag>pricing gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8730258258</id>
+      <title>white</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>T09140</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8730258258</id>
+      <title>red</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>T09141</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8730258258</id>
+      <title>red sale</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>T09145</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8730258258</id>
+      <title>green</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>T09142</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8730258258</id>
+      <title>yellow</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>T09143</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8729974930</id>
+    <published>2017-01-16T14:50:00-05:00</published>
+    <updated>2017-01-16T14:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/single-line-8-characters-hand-label-gun-pricing-gun"/>
+    <title>Single line 8 characters hand label gun ( pricing gun) - 82631</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>Sato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/single_line_pricing_gun.jpg?v=1556850305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sato<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SATO Single line 8 characters pricing gun, single liner hand label gun, and labeler.</p>
+<p>SKU/AB code: 82631</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hand label gun</s:tag>
+    <s:tag>pricing gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8729974930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>82631</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8721346962</id>
+    <published>2017-01-14T16:36:00-05:00</published>
+    <updated>2017-01-14T16:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/fine-needle-for-regular-needle-tagging-gun"/>
+    <title>Fine needle for fine needle tagging gun - 03405</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/FINE_NEEDLE.jpg?v=1484429949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fine needle for Avery Dennison fine needle tagging gun.</p>
+<p>SKU/AB code: 03405</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fine needle</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721346962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>03405</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8721345938</id>
+    <published>2017-01-14T16:27:00-05:00</published>
+    <updated>2017-01-14T16:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/regular-needle-for-regular-needle-tagging-gun"/>
+    <title>Regular needle for regular needle tagging gun -03400</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/REGULAR_NEEDLE.jpg?v=1556850558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Regular needle for regular needle  Avery Dennison tagging gun.</p>
+<p>SKU/AB code: 03400</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular needle</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721345938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>03400</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8721309842</id>
+    <published>2017-01-14T15:40:00-05:00</published>
+    <updated>2017-01-14T15:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/regular-needle-hook-pin"/>
+    <title>Regular needle hook pin - F08901, F08902</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/hook_fastener.gif?v=1484427299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Regular needle hook pin, suitable for the Avery Dennison Mark 3 regular fastener tagging Gun,  used to hang the product on all kinds of hooks, such as Slatwall hooks, pegboard hook, grid wall hooks. Sold by the box of 5000 pcs.</span></p>
+<p><span>SKU: F08901 for 1 1/2"</span></p>
+<p><span>SKU/AB code: for 2"</span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fastener</s:tag>
+    <s:tag>regular needle</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721309842</id>
+      <title>1 1/2&quot; long</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>F08901</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721309842</id>
+      <title>2&quot; long</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>F08902</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8721301650</id>
+    <published>2017-01-14T15:35:00-05:00</published>
+    <updated>2017-01-14T15:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/fine-fasteners"/>
+    <title>Fine fasteners for fine needle tagging gun -F08938, F08939</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/fine_fastener.gif?v=1484430142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;" align="center">Fine Fasteners, suitable for Dennison fine needle tagging gun. Available in 3/4" and 2" long. Sold by the box of 5000 pieces.</p>
+<p style="text-align: left;" align="center">SKU: F08938 for 3/4"</p>
+<p style="text-align: left;" align="center">SKU/AB code: F08939 for 2"</p>
+<p style="text-align: left;" align="center"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fine needle</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721301650</id>
+      <title>3/4&quot; long</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>F08938</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721301650</id>
+      <title>2&quot; long</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>F08939</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8721299282</id>
+    <published>2017-01-14T15:28:00-05:00</published>
+    <updated>2017-01-14T15:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/regular-fasteners"/>
+    <title>Regular fasteners for regular needle tagging gun - F10417, F08960, F09941, F08952</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/fastener.gif?v=1484426120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;" align="center">Regular Fasteners, suitable for Dennison regular needle tagging gun. 5000 pieces per Box. Available in 1/2", 1", 2" and 3" long. Sold by the box of 5000 pieces.</p>
+<p style="text-align: left;" align="center">SKU: F10417 for 1/2"</p>
+<p style="text-align: left;" align="center">SKU/AB Code: F08960 for 1", F09941 for 2", F08952 for 3"</p>
+<p align="center"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fastener</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721299282</id>
+      <title>1/2&quot; long</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>F10417</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721299282</id>
+      <title>1&quot; long</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>F08960</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721299282</id>
+      <title>2&quot; long</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>F09941</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721299282</id>
+      <title>3&quot; long</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>F08952</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8721291282</id>
+    <published>2017-01-14T15:21:00-05:00</published>
+    <updated>2017-01-14T15:21:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/regular-needle-tagging-gun-avery-dennison-mark-3-regular-fastener-pistol-grip-tool"/>
+    <title>Regular needle tagging gun-Avery Dennison Mark 3 regular fastener pistol grip tool - F10651</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/regular_needle_tagging_gun.jpg?v=1556850551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Avery Dennison  Mark 3 regular fastener tagging Gun uses regular  heavy duty needle and fasteners.</span></p>
+<p><span>SKU/AB Code: F10651</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular needle</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721291282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>F10651</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8721278546</id>
+    <published>2017-01-14T15:06:00-05:00</published>
+    <updated>2017-01-14T15:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/fine-needle-tagging-gun-avery-dennison-mark-3-fine-fabric-pistol-grip-swifttach-tool"/>
+    <title>Fine needle tagging gun - Avery Dennison Mark 3 Fine fabric pistol grip swifttach tool - 10312</title>
+    <s:type>Tagging gun and pricing gun</s:type>
+    <s:vendor>Avery dennison</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/fine_needle_tagging_gun.jpg?v=1484425239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avery dennison<br>
+        <strong>Type: </strong>Tagging gun and pricing gun<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Avery Dennison  Mark 3 fine fastener tagging Gun uses a small, thin needle and fine fasteners to leave a small hole on the cloth. It is good for thin clothes. </span></p>
+<p><span>SKU/AB code: 10312</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fine needle</s:tag>
+    <s:tag>Tagging gun</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8721278546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>10312</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://storefixtureshowcase.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://storefixtureshowcase.ca/collections/glass-shelf-and-glass-display.atom"/>
+  <title>Ablelin Store Fixtures Corp.</title>
+  <updated>2017-05-23T14:56:32-04:00</updated>
+  <author>
+    <name>Ablelin Store Fixtures Corp.</name>
+  </author>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9596414802</id>
+    <published>2017-05-23T14:56:32-04:00</published>
+    <updated>2017-05-23T14:56:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/round-base-glass-display-unit"/>
+    <title>Round base glass display unit</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/round_base_glass_display_unit.jpg?v=1495566498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            514.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description rte" itemprop="description">
+<p>Round base glass display unit includes 23 chrome 4 way connectors. Tempered glass shelves are 12″ deep and  3/16″ thick. High quality base with maple or cherry melamine finish.</p>
+<p>WD11R12M   55" H x 30" L x 30" W  made of 12" wide glass and maple base;</p>
+<p>WD11R12C   55" H x 30" L x 30" W  made of 12" wide glass and cherry base;</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>glass</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9596414802</id>
+      <title>maple base</title>
+      <s:price currency="CAD">514.79</s:price>
+      <s:sku>WD11R12M</s:sku>
+      <s:grams>92986</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9596414802</id>
+      <title>cherry base</title>
+      <s:price currency="CAD">514.79</s:price>
+      <s:sku>WD11R12C</s:sku>
+      <s:grams>92986</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/9596321810</id>
+    <published>2017-05-23T14:15:54-04:00</published>
+    <updated>2017-05-23T14:15:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/oval-base-glass-display-unit"/>
+    <title>Oval base glass display unit</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/maple_oval_base_glass_display_unit.jpg?v=1556891000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            817.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval base glass display unit includes 52 chrome 4 way connectors. Tempered glass shelves are 12″ deep and  3/16″ thick. High quality base with maple or cherry melamine finish.</p>
+<p>WD12R12M   55" H x 54" L x 30" W  made of 12" wide glass and maple base;</p>
+<p>WD12R12C   55" H x 54" L x 30" W  made of 12" wide glass and cherry base;</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>glass</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9596321810</id>
+      <title>maple base</title>
+      <s:price currency="CAD">817.93</s:price>
+      <s:sku>WD12R12M</s:sku>
+      <s:grams>122470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/9596321810</id>
+      <title>cherry base</title>
+      <s:price currency="CAD">817.93</s:price>
+      <s:sku>WD12R12C</s:sku>
+      <s:grams>122470</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8745142290</id>
+    <published>2017-01-20T18:05:00-05:00</published>
+    <updated>2017-01-20T18:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/2-way-glass-connector-lock"/>
+    <title>2 Way glass connector lock</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/2_way_lock.jpg?v=1484953667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            2.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2 Way glass connector lock, chrome finish.
+<p>Fit 3/16" glass.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>connector</s:tag>
+    <s:tag>glass</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8745142290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.53</s:price>
+      <s:sku>LOCK1</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8745138002</id>
+    <published>2017-01-20T18:02:00-05:00</published>
+    <updated>2017-01-20T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/single-hinge-2-way-glass-connector"/>
+    <title>Glass Connector - Single Hinge 2 Way Glass Connector - KL3106</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/2_way_hinge_connector.jpg?v=1583270348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            2.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Single hinge 2-way glass connector, chrome finish.
+<p>Fit 3/16" glass.</p>
+<p>SKU: KL3106</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>connector</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass connector</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8745138002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.53</s:price>
+      <s:sku>KL3106</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8745135314</id>
+    <published>2017-01-20T18:01:00-05:00</published>
+    <updated>2017-01-20T18:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/120-degree-3-way-glass-connector"/>
+    <title>Glass Connector - 120 Degree 3 Way Glass Connector - CON3-N</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/120_degree_3_way_connector.jpg?v=1583270691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            2.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>120 degree 3 way glass connector, chrome finish. </p>
+<p>Fit 3/16" glass.</p>
+<p>SKU/AB Code: CON3-N</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 way glass connector</s:tag>
+    <s:tag>connector</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass connector</s:tag>
+    <s:tag>glass to glass connector</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8745135314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.78</s:price>
+      <s:sku>CON3-N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8745133010</id>
+    <published>2017-01-20T17:59:00-05:00</published>
+    <updated>2017-01-20T17:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/120-degree-2-way-glass-connector"/>
+    <title>Glass Connector - 120 Degree 2 Way Glass Connector - CON2-N</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/120_degree_connector.jpg?v=1484953270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            2.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>120 degree 2 way glass connector, chrome finish. </p>
+<p>Fit 3/16" glass.</p>
+<p>SKU/AB Code: CON2-N</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 way glass connector</s:tag>
+    <s:tag>connector</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass connector</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8745133010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.20</s:price>
+      <s:sku>CON2-N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8745129874</id>
+    <published>2017-01-20T17:57:00-05:00</published>
+    <updated>2017-01-20T17:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/4-way-cross-binning-connector"/>
+    <title>Glass Connector - 4 way glass connectors - 4 Way Cross Binning Connector - CON4-EB</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/4_way_edge_connector.jpg?v=1583268676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            4.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Glass Connector, 4-way- cross binning connector, chrome finish.
+<p>Fit 3/16" glass.</p>
+<p>SKU/AB Code: CON4-EB</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way glass connectors</s:tag>
+    <s:tag>connector</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass connector</s:tag>
+    <s:tag>glass to glass connector</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8745129874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.98</s:price>
+      <s:sku>CON4-EB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8745123730</id>
+    <published>2017-01-20T17:53:00-05:00</published>
+    <updated>2017-01-20T17:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/end-binning-glass-connector"/>
+    <title>Glass Connector - 3 Way Glass Connector - End Binning Glass Connector - CON3-EB</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/3_way_edge_connector.jpg?v=1583267788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            4.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>End binning glass connector, chrome finish. </p>
+<p>Fit 3/16" glass.</p>
+<p>SKU/AB Code: CON3-EB</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 way glass connector</s:tag>
+    <s:tag>connector</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass connector</s:tag>
+    <s:tag>glass to glass connector</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8745123730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.37</s:price>
+      <s:sku>CON3-EB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8745112786</id>
+    <published>2017-01-20T17:28:00-05:00</published>
+    <updated>2017-01-20T17:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/4-way-90-degree-glass-connector"/>
+    <title>Glass Connector - 4 Way Glass Connectors - Chrome - CON4</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/4_way_connector.jpg?v=1484952800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            4.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><span>Glass connector, 4 way 90 degree glass connector, </span></span>chrome finish. 
+<p>Fit 3/16" glass.</p>
+<p>SKU/AB Code: CON4</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 way glass connectors</s:tag>
+    <s:tag>connector</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass connector</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8745112786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.05</s:price>
+      <s:sku>CON4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8745032274</id>
+    <published>2017-01-20T17:26:00-05:00</published>
+    <updated>2017-01-20T17:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/3-way-90-degree-glass-connector"/>
+    <title>Glass Connector - 3 Way Glass Connector - Chrome - CON3</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/3_way_connector.jpg?v=1583271830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            3.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glass connector, 3 way 90 degree glass connector, chrome finish. </p>
+<p>Fit 3/16" glass.</p>
+<p>SKU/AB Code: CON3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 way glass connector</s:tag>
+    <s:tag>connector</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass connector</s:tag>
+    <s:tag>glass to glass connector</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8745032274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.58</s:price>
+      <s:sku>CON3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8745025362</id>
+    <published>2017-01-20T17:20:00-05:00</published>
+    <updated>2017-01-20T17:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/2-way-90-degree-glass-connector"/>
+    <title>Glass Connector - 2 Way Glass Connector - Chrome - CON2</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/two_way_connector.jpg?v=1583272035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            2.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glass connector, 2 way 90 degree glass connector, chrome finish. </p>
+<p>Fit 3/16" glass.</p>
+<p>SKU/AB Code: CON2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 way</s:tag>
+    <s:tag>2 way glass connector</s:tag>
+    <s:tag>connector</s:tag>
+    <s:tag>glass connector</s:tag>
+    <s:tag>glass to glass connector</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8745025362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.92</s:price>
+      <s:sku>CON2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8740091090</id>
+    <published>2017-01-19T13:08:00-05:00</published>
+    <updated>2017-01-19T13:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/quarter-round-glass-shelves"/>
+    <title>Glass Shelves - Quarter Round  Tempered Glass Shelves - GLR12, R14</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/quarter_round_glass_shelf.jpg?v=1556850617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            8.82 - 11.09
+            <a href="https://storefixtureshowcase.ca/products/quarter-round-glass-shelves">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quarter Round Tempered Glass Shelves,</p>
+<p>Available in R12" and R14",</p>
+<p>3/16" thick.</p>
+<p>SKU/AB Code: GLR12, R14</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cost of glass shelves</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass display shelves</s:tag>
+    <s:tag>glass shelves</s:tag>
+    <s:tag>glass shelves for sale</s:tag>
+    <s:tag>glass shelves near me</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>tempered glass shelves</s:tag>
+    <s:tag>tempered glass shelves near me</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740091090</id>
+      <title>QR14&quot;</title>
+      <s:price currency="CAD">11.09</s:price>
+      <s:sku>R14</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740091090</id>
+      <title>QR12&quot;</title>
+      <s:price currency="CAD">8.82</s:price>
+      <s:sku>GLR12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8740044562</id>
+    <published>2017-01-19T13:04:00-05:00</published>
+    <updated>2017-01-19T13:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/square-tempered-glass-shelves"/>
+    <title>Glass Shelves - Square Tempered Glass Shelves - GL1212, GL1414</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/square_glass_shelf.jpg?v=1556849983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            7.29 - 10.34
+            <a href="https://storefixtureshowcase.ca/products/square-tempered-glass-shelves">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square Tempered Glass Shelves,</p>
+<p>Available in 12" x 12" and 14" x 14",</p>
+<p>3/16" thick.</p>
+<p>SKU/AB Code: GL1212, GL1414</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cost of glass shelves</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass display shelves</s:tag>
+    <s:tag>glass shelves</s:tag>
+    <s:tag>glass shelves for sale</s:tag>
+    <s:tag>glass shelves near me</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>tempered glass shelves</s:tag>
+    <s:tag>tempered glass shelves near me</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740044562</id>
+      <title>12&quot;X12&quot;</title>
+      <s:price currency="CAD">7.29</s:price>
+      <s:sku>GL1212</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740044562</id>
+      <title>14&quot;X14&quot;</title>
+      <s:price currency="CAD">10.34</s:price>
+      <s:sku>GL1414</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/8740032466</id>
+    <published>2017-01-19T12:47:00-05:00</published>
+    <updated>2017-01-19T12:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/rectangular-tempered-glass-shelves"/>
+    <title>Glass Shelves - Tempered Glass Shelves - GL1024, GL1224, GL1424, GL1048, GL1248</title>
+    <s:type>glass shelf and glass display</s:type>
+    <s:vendor>StoreFixtureShowcase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/rectangular_tempered_glass_shelf.jpg?v=1556850576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StoreFixtureShowcase<br>
+        <strong>Type: </strong>glass shelf and glass display<br>
+        <strong>Price: </strong>
+            12.75 - 24.08
+            <a href="https://storefixtureshowcase.ca/products/rectangular-tempered-glass-shelves">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular Tempered Glass Shelves,</p>
+<p>Available in 10" x 24", 12" x 24", 14" x 24", 10" x 48", 12" x 48",</p>
+<p>3/16" thick.</p>
+<p>SKU/AB Code: GL1024, GL1224, GL1424, GL1048, GL1248</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cost of glass shelves</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass display shelves</s:tag>
+    <s:tag>glass shelves</s:tag>
+    <s:tag>glass shelves for sale</s:tag>
+    <s:tag>glass shelves near me</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>tempered glass shelves</s:tag>
+    <s:tag>tempered glass shelves near me</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740032466</id>
+      <title>10&quot;x24&quot;</title>
+      <s:price currency="CAD">12.75</s:price>
+      <s:sku>GL1024</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740032466</id>
+      <title>12&quot;x24&quot;</title>
+      <s:price currency="CAD">13.75</s:price>
+      <s:sku>GL1224</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740032466</id>
+      <title>14&quot;x24&quot;</title>
+      <s:price currency="CAD">14.89</s:price>
+      <s:sku>GL1424</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740032466</id>
+      <title>10&quot;x48&quot;</title>
+      <s:price currency="CAD">22.15</s:price>
+      <s:sku>GL1048</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740032466</id>
+      <title>12&quot;x48&quot;</title>
+      <s:price currency="CAD">24.08</s:price>
+      <s:sku>GL1248</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/8740032466</id>
+      <title>12&quot; X 36&quot;</title>
+      <s:price currency="CAD">22.75</s:price>
+      <s:sku>GL1236</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+</feed>

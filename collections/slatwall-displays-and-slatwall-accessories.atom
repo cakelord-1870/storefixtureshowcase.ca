@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://storefixtureshowcase.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://storefixtureshowcase.ca/collections/slatwall-displays-and-slatwall-accessories.atom"/>
+  <title>Ablelin Store Fixtures Corp.</title>
+  <updated>2020-09-11T17:19:25-04:00</updated>
+  <author>
+    <name>Ablelin Store Fixtures Corp.</name>
+  </author>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/5647200813207</id>
+    <published>2020-09-11T17:19:25-04:00</published>
+    <updated>2020-09-11T17:19:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slatwall-plastic-insert-8-feet-long"/>
+    <title>Slatwall plastic insert 8 feet long</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwallplasticinsert.jpg?v=1599859193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Slatwall plastic insert 8 feet long. F<span data-mce-fragment="1">or Slatwall longer-lasting and enhance the strength. Available in Black and green colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>slatwall</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647200813207</id>
+      <title>BLACK</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>SWPLIN-B</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647200813207</id>
+      <title>GREEN</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>SWPLIN-G</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/5647144616087</id>
+    <published>2020-09-11T16:13:46-04:00</published>
+    <updated>2020-09-11T16:13:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slatwall-panel-short-groove"/>
+    <title>Slatwall panel short groove</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwallvertical_4faafae1-fe66-458e-97d7-b4aa71d5d99d.jpg?v=1599855817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            115.00 - 225.00
+            <a href="https://storefixtureshowcase.ca/products/slatwall-panel-short-groove">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Slatwall panel system is widely used for merchandise display and storage. Short groove panels are constructed of 3/4 inch medium density fibreboard (MDF),4' long, and 8' high.</span></p>
+<p><span data-mce-fragment="1">Short groove Slatwall panels are</span><span data-mce-fragment="1"> available in a variety of finishes. Each Slatwall panel contains routed 4 feet grooves, spaced every 3 inches for placement of Slatwall accessories. Aluminum or plastic inserts are available.</span></p>
+<p><span data-mce-fragment="1">This item can only be picked up by the customer or delivered local Toronto area due to the size of the product.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>short groove slatwall</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647144616087</id>
+      <title>Black / With aluminum insert</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>BLK100SA</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647144616087</id>
+      <title>Black / Without aluminum insert</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLK100S</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647144616087</id>
+      <title>White / With aluminum insert</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>W400SA</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647144616087</id>
+      <title>White / Without aluminum insert</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>W400S</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647144616087</id>
+      <title>Maple / With aluminum insert</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>H602SA</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647144616087</id>
+      <title>Maple / Without aluminum insert</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>H602S</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647144616087</id>
+      <title>Grey / With aluminum insert</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>S551SA</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647144616087</id>
+      <title>Grey / Without aluminum insert</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>S551S</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/5647136129175</id>
+    <published>2020-09-11T16:04:36-04:00</published>
+    <updated>2020-09-11T16:04:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slatwall-panel-long-groove"/>
+    <title>Slatwall panel long groove</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwallhorizonal_c39d4b4a-0a3f-4b22-874e-614cc67c1286.jpg?v=1599856221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            115.00 - 225.00
+            <a href="https://storefixtureshowcase.ca/products/slatwall-panel-long-groove">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Slatwall panel system is widely used for merchandise display and storage. Panels are constructed of 3/4 inch medium density fibreboard (MDF),8' long and 4' high.</span></p>
+<p><span data-mce-fragment="1">Long groove Slatwall panels are</span><span data-mce-fragment="1"> available in a variety of finishes. Each Slatwall panel contains routed 8 feet long grooves, spaced every 3 inches for placement of Slatwall accessories. Aluminum or plastic inserts are available.</span></p>
+<p><span data-mce-fragment="1">This item can only be picked up by the customer or delivered local Toronto area due to the size of the product.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>long groove slatwall</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647136129175</id>
+      <title>Black / With aluminum insert</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>BLK100LA</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647136129175</id>
+      <title>Black / Without aluminum insert</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLK100L</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647136129175</id>
+      <title>White / With aluminum insert</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>W400LA</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647136129175</id>
+      <title>White / Without aluminum insert</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>W400L</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647136129175</id>
+      <title>Maple / With aluminum insert</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>H602LA</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647136129175</id>
+      <title>Maple / Without aluminum insert</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>H602L</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647136129175</id>
+      <title>Grey / With aluminum insert</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>S551LA</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/5647136129175</id>
+      <title>Grey / Without aluminum insert</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>S551L</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209591828498</id>
+    <published>2018-03-25T10:57:51-04:00</published>
+    <updated>2018-03-25T10:57:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/7-waterfall-with-3-balls-3-4-square-tubing-kl2818"/>
+    <title>Slatwall waterfall hangers - 7 - inch waterfall with 3 balls - kl2818</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Slatwall_waterfall_with_3_balls.jpg?v=1521990027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            4.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slatwall 7 - inch waterfall with 3 balls, 3/4 - inch square tubing.</p>
+<p>Available finish: chrome.</p>
+<p>SKU: KL2818</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board hangers</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall hangers</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall waterfall hangers</s:tag>
+    <s:tag>water fall</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209591828498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.35</s:price>
+      <s:sku>KL2818</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209591664658</id>
+    <published>2018-03-25T10:53:59-04:00</published>
+    <updated>2018-03-25T10:53:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/clutch-bag-display-5w-x-18l-kl2911"/>
+    <title>Clutch bag display for slatwall, 5(W) x 18(L) ---KL2911</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Clutch_bag_display_5_W_x_18_L.jpg?v=1521989764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            6.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clutch bag display for slatwall, 5''W x 18''L.</p>
+<p>Available finish: chrome</p>
+<p>SKU: KL2911</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209591664658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.30</s:price>
+      <s:sku>KL2911</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209591500818</id>
+    <published>2018-03-25T10:47:55-04:00</published>
+    <updated>2018-03-25T10:47:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/straight-24l-x12d-metal-shelf-with-5-8-front-lip-kl2932"/>
+    <title>Slatwall shelf with lip - Straight 24(L) x12(D) metal shelf with 5/8 - inch front lip ---KL2932</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Straight_metal_shelf_with_front_lip..jpg?v=1556849905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            22.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Straight 24(L) x12(D) metal shelf with 5/8 - inch front lip.</p>
+<p>Available finish: black and white</p>
+<p>SKU: KL2932B, KL2932W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black slatwall shelves</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>heavy duty slatwall shelves</s:tag>
+    <s:tag>metal slatwall shelves</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board shelves</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall display shelves</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelf with lip</s:tag>
+    <s:tag>slatwall shelves</s:tag>
+    <s:tag>slatwall shelves near me</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209591500818</id>
+      <title>black</title>
+      <s:price currency="CAD">22.10</s:price>
+      <s:sku>KL2932B</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209591500818</id>
+      <title>white</title>
+      <s:price currency="CAD">22.10</s:price>
+      <s:sku>KL2932W</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209590681618</id>
+    <published>2018-03-25T10:24:08-04:00</published>
+    <updated>2018-03-25T10:24:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/hat-display-with-4-ring-6l-x-6h-kl2909"/>
+    <title>Slatwall hat display - Hat display with 4 - inch ring, 6(L) x 6(H) - inch ---KL2909</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Hat_display_with_4_ring_6_L_x_6_H..jpg?v=1521988051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            3.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hat display with 4 - inch ring, 6(L) x 6(H) - inch</p>
+<p>Available finish: black and white and chrome</p>
+<p>SKU: KL2909B, KL2909W, KL2909C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hat holder</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall hat brackets</s:tag>
+    <s:tag>slatwall hat display</s:tag>
+    <s:tag>slatwall hat holder</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209590681618</id>
+      <title>black</title>
+      <s:price currency="CAD">3.60</s:price>
+      <s:sku>KL2909B</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209590681618</id>
+      <title>chrome</title>
+      <s:price currency="CAD">3.60</s:price>
+      <s:sku>KL2909C</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209590681618</id>
+      <title>white</title>
+      <s:price currency="CAD">3.60</s:price>
+      <s:sku>KL2909W</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209590386706</id>
+    <published>2018-03-25T10:11:28-04:00</published>
+    <updated>2018-03-25T10:11:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slatwall-wood-shelf-bracket-kl2812"/>
+    <title>Slatwall brackets - Slatwall wood shelf brackets ---KL2812</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Slatwall_wood_shelf_bracket..jpg?v=1556850030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            9.00 - 9.90
+            <a href="https://storefixtureshowcase.ca/products/slatwall-wood-shelf-bracket-kl2812">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slatwall wood shelf bracket.</p>
+<p>Available size: 8, 10, 12 and 14 - inch</p>
+<p>Available finish: chrome. (sold in pairs)</p>
+<p>SKU: KL2812-8, KL2812-10, KL2812-12, KL2812-14</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 slatwall shelf brackets</s:tag>
+    <s:tag>Bracket</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board brackets</s:tag>
+    <s:tag>slat board shelf brackets</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall brackets</s:tag>
+    <s:tag>slatwall brackets for shelves</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelf brackets</s:tag>
+    <s:tag>slatwall shelves and brackets</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209590386706</id>
+      <title>8&quot;</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>KL2812-8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209590386706</id>
+      <title>10&quot;</title>
+      <s:price currency="CAD">9.30</s:price>
+      <s:sku>KL2812-10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209590386706</id>
+      <title>12&quot;</title>
+      <s:price currency="CAD">9.60</s:price>
+      <s:sku>KL2812-12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209590386706</id>
+      <title>14&quot;</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>KL2812-14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209589960722</id>
+    <published>2018-03-25T10:01:25-04:00</published>
+    <updated>2018-03-25T10:01:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/adjustable-wood-shelf-brackets-with-5-position-screw-lock-kl2813"/>
+    <title>Adjustable slatwall brackets - Adjustable wood shelf brackets with 5 position screw lock ---KL2813</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Adjustable_wood_shelf_brackets_with_5_position_screw_lock.jpg?v=1521986826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            11.40 - 13.60
+            <a href="https://storefixtureshowcase.ca/products/adjustable-wood-shelf-brackets-with-5-position-screw-lock-kl2813">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adjustable wood shelf brackets with 5 position screw lock.</p>
+<p>Available size: 8, 10, 12 and 14 - inch.</p>
+<p>Available finish: chrome. (sold in pairs)</p>
+<p>SKU: KL2813-8, KL2813-10, KL2813-12, KL2813-14</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 slatwall shelf brackets</s:tag>
+    <s:tag>adjustable slatwall brackets</s:tag>
+    <s:tag>Bracket</s:tag>
+    <s:tag>heavy duty slatwall shelf brackets</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board brackets</s:tag>
+    <s:tag>slat board shelf brackets</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall brackets</s:tag>
+    <s:tag>slatwall brackets for shelves</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelf brackets</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209589960722</id>
+      <title>8&quot;</title>
+      <s:price currency="CAD">11.40</s:price>
+      <s:sku>KL2813-8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209589960722</id>
+      <title>10&quot;</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>KL2813-10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209589960722</id>
+      <title>12&quot;</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku>KL2813-12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209589960722</id>
+      <title>14&quot;</title>
+      <s:price currency="CAD">13.60</s:price>
+      <s:sku>KL2813-14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209588158482</id>
+    <published>2018-03-25T09:54:04-04:00</published>
+    <updated>2018-03-25T09:54:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/9-1-2l-x-2-1-2w-x-9h-literature-holder-for-slatwall-kl2924"/>
+    <title>Slatwall brochure holders - 9-1/2(L) x 2-1/2(W) x 9(H) - inch literature holder for slatwall ---KL2924</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/literature_holder_for_slatwall._d3a38d2b-3471-4d17-b105-20b0dac0d3aa.jpg?v=1521986157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            3.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>9-1/2(L) x 2-1/2(W) x 9(H) literature holder for Slatwall.</p>
+<p>Available finish: black</p>
+<p>SKU: KL2924</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>literature holder</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall brochure holders</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall leaflet holders</s:tag>
+    <s:tag>slatwall literature holder</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209588158482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>KL2924</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209587601426</id>
+    <published>2018-03-25T09:49:47-04:00</published>
+    <updated>2018-03-25T09:49:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/4-1-2l-x-2-1-2w-x-7h-literature-holder-for-slatwall-kl2923"/>
+    <title>Slatwall brochure holders - 4-1/2(L) x 2-1/2(W) x 7(H) literature holder for slatwall ---KL2923</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/literature_holder_for_slatwall..jpg?v=1521986034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4-1/2(L) x 2-1/2(W) x 7(H) - inch literature holder for Slatwall.</p>
+<p>Available finish: black</p>
+<p>SKU: KL2923</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>literature holder</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall brochure holders</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall leaflet holders</s:tag>
+    <s:tag>slatwall literature holder</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209587601426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>KL2923</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209586257938</id>
+    <published>2018-03-25T09:46:10-04:00</published>
+    <updated>2018-03-25T09:46:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/adjustable-literature-holder-6-high-kl2912"/>
+    <title>Slatwall literature holder - Adjustable literature holder, 6 -inch high ---KL2912</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Adjustable_literature_holder_6_high..jpg?v=1521985767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adjustable literature holder, 6'' high.</p>
+<p>Available finish: chrome. (sold in pairs)</p>
+<p>SKU: KL2912</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>literature holder</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall brochure holders</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall leaflet holders</s:tag>
+    <s:tag>slatwall literature holder</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209586257938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>KL2912</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209214603282</id>
+    <published>2018-03-24T19:54:00-04:00</published>
+    <updated>2018-03-24T19:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/wire-basket-for-slatwall-slatgrid-and-pegboard-kl2906"/>
+    <title>Slatwall wire baskets for slatwall, slat grid and pegboard ---KL2906</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Wire_bracket_FOR_SLATWALL.jpg?v=1556849167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            27.30 - 31.60
+            <a href="https://storefixtureshowcase.ca/products/wire-basket-for-slatwall-slatgrid-and-pegboard-kl2906">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire Basket for Slatwall, slat grid and pegboard,</p>
+<p>12(W) x 24(L) x 6(H) - inch</p>
+<p>Available finish: black, white and chrome</p>
+<p>SKU: KL2906B, KL2906W, KL2906</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>pegboard</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatgrid</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall wire baskets</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209214603282</id>
+      <title>black</title>
+      <s:price currency="CAD">27.30</s:price>
+      <s:sku>KL2906B</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209214603282</id>
+      <title>white</title>
+      <s:price currency="CAD">27.30</s:price>
+      <s:sku>KL2906W</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209214603282</id>
+      <title>chrome</title>
+      <s:price currency="CAD">31.60</s:price>
+      <s:sku>KL2906</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209214111762</id>
+    <published>2018-03-24T19:49:44-04:00</published>
+    <updated>2018-03-24T19:49:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/24l-x-12wx-4h-wire-basket-for-slatwall-and-pegboard-kl2937"/>
+    <title>Slatwall wire baskets - 24(L) x 12(W) x 4(H) - inch wire baskets for slatwall and pegboard --- KL2937</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/slatwall_wire_basket.jpg?v=1521935562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24''L x 12''W x 4''H wire basket.</p>
+<p>Available finish: black and white</p>
+<p>SKU: KL2937B, KL2937W</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>pegboard</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall wire baskets</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209214111762</id>
+      <title>black</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>KL2937B</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209214111762</id>
+      <title>white</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>KL2937W</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209213915154</id>
+    <published>2018-03-24T19:45:04-04:00</published>
+    <updated>2018-03-24T19:45:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/cap-merchandiser-for-slatwall-kl2910"/>
+    <title>Slatwall hat holder - Cap merchandiser for slatwall ---KL2910</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Cap_merchandiser_holds_six_caps..jpg?v=1521935337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            2.80 - 3.30
+            <a href="https://storefixtureshowcase.ca/products/cap-merchandiser-for-slatwall-kl2910">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cap merchandiser for Slatwall holds six caps.</p>
+<p>Available finish: black, white and chrome</p>
+<p>SKU: KL2910B, KL2910W, KL2910</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hat holder</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall hat brackets</s:tag>
+    <s:tag>slatwall hat display</s:tag>
+    <s:tag>slatwall hat holder</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209213915154</id>
+      <title>black</title>
+      <s:price currency="CAD">2.80</s:price>
+      <s:sku>KL2910B</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209213915154</id>
+      <title>white</title>
+      <s:price currency="CAD">2.80</s:price>
+      <s:sku>KL2910W</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209213915154</id>
+      <title>chrome</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>KL2910</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209213685778</id>
+    <published>2018-03-24T19:29:56-04:00</published>
+    <updated>2018-03-24T19:29:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/flat-wire-shelf-of-3-16-wire-for-slatwall-kl2907"/>
+    <title>Slatwall shelves - slatwall wire shelves --- KL2907</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Flat_wire_shelf_of_wire_for_slatwall..jpg?v=1521935074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            13.50 - 15.40
+            <a href="https://storefixtureshowcase.ca/products/flat-wire-shelf-of-3-16-wire-for-slatwall-kl2907">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flat wire shelf of 3/16'' wire for Slatwall.</p>
+<p>13-1/4'' W x 20''L.</p>
+<p>Available finish: black, white and chrome</p>
+<p>SKU: KL2907B, KL2907W, KL2907</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black slatwall shelves</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>metal slatwall shelves</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board shelves</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall display shelves</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelves</s:tag>
+    <s:tag>slatwall shelves near me</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall tool accessories</s:tag>
+    <s:tag>slatwall wire shelves</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209213685778</id>
+      <title>black</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>KL2907B</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209213685778</id>
+      <title>white</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>KL2907W</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209213685778</id>
+      <title>chrome</title>
+      <s:price currency="CAD">15.40</s:price>
+      <s:sku>KL2907</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209212964882</id>
+    <published>2018-03-24T19:24:43-04:00</published>
+    <updated>2018-03-24T19:24:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/scarecrow-display-for-slatwall-kl2922"/>
+    <title>Scarecrow display for slatwall --- KL2922</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Scarecrow_display.jpg?v=1556850502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scarecrow display, adjustable from 20-1/2'' to 34-3/4''.</p>
+<p>Available finish: black, white and chrome</p>
+<p>SKU: KL2922B, KL2922W, KL2922C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>scarecrow</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209212964882</id>
+      <title>black</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku>KL2922B</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209212964882</id>
+      <title>white</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku>KL2922W</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209212964882</id>
+      <title>chrome</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku>KL2922C</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209211752466</id>
+    <published>2018-03-24T19:18:47-04:00</published>
+    <updated>2018-03-24T19:18:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/12l-x-12w-x-3h-slant-front-basket-for-slatwall-and-pegboard-slatgrid-kl2938"/>
+    <title>Slatwall wire baskets - 12(L) x 12(W) x 3(H) - inch slant front basket for slatwall and pegboard, slatgrid ---KL2938</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/12_L_x_12_W_x_3_H_slant_front_basket_for_slatwall_and_pegboard_slatgrid..jpg?v=1521933861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            10.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12(L) x 12(W) x 3(H) - inch slant front basket for Slatwall and pegboard, slat grid.</p>
+<p>Available finish: black and white</p>
+<p>SKU: KL2938B, KL2938W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>pegboard</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall wire baskets</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209211752466</id>
+      <title>black</title>
+      <s:price currency="CAD">10.30</s:price>
+      <s:sku>KL2938B</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209211752466</id>
+      <title>white</title>
+      <s:price currency="CAD">10.30</s:price>
+      <s:sku>KL2938W</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209210507282</id>
+    <published>2018-03-24T19:10:24-04:00</published>
+    <updated>2018-03-24T19:10:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/book-self-with-two-pockets-for-slatwall-kl2904"/>
+    <title>Slatwall wire baskets - Book self with two pockets for slatwall ---KL2904</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Book_self_with_two_pockets_for_slatwall.jpg?v=1521933281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            22.00 - 40.40
+            <a href="https://storefixtureshowcase.ca/products/book-self-with-two-pockets-for-slatwall-kl2904">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Book self with two pockets for Slatwall.</p>
+<p>Each pocket is 3 - inch deep.</p>
+<p>Available size: 24 and 48 - inch.</p>
+<p>Available finish: black and white</p>
+<p>SKU: KL2904-24B, KL2904-24W, KL2904-48B, KL2904-48W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatgrid</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall wire baskets</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209210507282</id>
+      <title>24&quot; / black</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KL2904-24B</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209210507282</id>
+      <title>24&quot; / white</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KL2904-24W</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209210507282</id>
+      <title>48&quot; / black</title>
+      <s:price currency="CAD">40.40</s:price>
+      <s:sku>KL2904-48B</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209210507282</id>
+      <title>48&quot; / white</title>
+      <s:price currency="CAD">40.40</s:price>
+      <s:sku>KL2904-48W</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209209786386</id>
+    <published>2018-03-24T19:06:48-04:00</published>
+    <updated>2018-03-24T19:06:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/small-basket-for-slatwall-slatgrid-and-pegboard-kl2921"/>
+    <title>Slatwall wire baskets - Small basket for slatwall, slatgrid and pegboard --- KL2921</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Small_basket_for_slatwall_slatgrid_and_pegboard_13554825-ea50-4468-a011-e9f46f73b3f9.jpg?v=1556850022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            9.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small basket for Slatwall, slat grid and pegboard,</p>
+<p>12W x 12L x 4H - inch</p>
+<p>Available finish: black and white</p>
+<p>SKU: KL2921B, KL2921W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>pegboard</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatgrid</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall wire baskets</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209209786386</id>
+      <title>black</title>
+      <s:price currency="CAD">9.60</s:price>
+      <s:sku>KL2921B</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209209786386</id>
+      <title>white</title>
+      <s:price currency="CAD">9.60</s:price>
+      <s:sku>KL2921W</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209208836114</id>
+    <published>2018-03-24T19:02:53-04:00</published>
+    <updated>2018-03-24T19:02:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/small-basket-for-slatwall-slatgrid-and-pegboard-kl2920"/>
+    <title>Slatwall wire baskets - Small basket for slatwall, slatgrid and pegboard --- KL2920</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Small_basket_for_slatwall_slatgrid_and_pegboard.jpg?v=1556850033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small basket for Slatwall, slat grid and pegboard,</p>
+<p>12(W) x 12(L) x 8(H) - inch</p>
+<p>Available finish: black and white</p>
+<p>SKU: KL2920B, KL2920W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>pegboard</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatgrid</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall wire baskets</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209208836114</id>
+      <title>black</title>
+      <s:price currency="CAD">14.90</s:price>
+      <s:sku>KL2920B</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209208836114</id>
+      <title>white</title>
+      <s:price currency="CAD">14.90</s:price>
+      <s:sku>KL2920W</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209207951378</id>
+    <published>2018-03-24T18:54:19-04:00</published>
+    <updated>2018-03-24T18:54:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slant-front-basket-for-slatwall-and-pegboard-kl2919"/>
+    <title>Slatwall wire baskets - Slant front basket for slatwall and pegboard --- KL2919</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Slant_front_basket_for_slatwall_and_pegboard.jpg?v=1556850294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            10.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slant front basket for Slatwall and pegboard,</p>
+<p>12(W) x 12(L) x 8(H) - inch</p>
+<p>Available finish: black and white</p>
+<p>SKU: KL2919B, KL2919W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basket</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>pegboard wire basket</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall wire baskets</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209207951378</id>
+      <title>black</title>
+      <s:price currency="CAD">10.60</s:price>
+      <s:sku>KL2919B</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209207951378</id>
+      <title>white</title>
+      <s:price currency="CAD">10.60</s:price>
+      <s:sku>KL2919W</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209191665682</id>
+    <published>2018-03-24T18:44:02-04:00</published>
+    <updated>2018-03-24T18:44:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/24l-x-12w-wire-straight-shelf-for-slatwall-kl2939"/>
+    <title>Slatwall shelves - 24 L x 12 W - inch wire straight shelf for slatwall --- KL2939</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/24_L_x_12_W_wire_straight_shelf_for_slatwall.jpg?v=1521931601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            14.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24 L x 12 W - inch wire straight shelf for Slatwall,</p>
+<p>Available finish: black and white</p>
+<p>SKU: KL2939B, KL2939W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black slatwall shelves</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>metal slatwall shelves</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board shelves</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall display shelves</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelves</s:tag>
+    <s:tag>slatwall shelves near me</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall wire shelves</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209191665682</id>
+      <title>black</title>
+      <s:price currency="CAD">14.60</s:price>
+      <s:sku>KL2939B</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209191665682</id>
+      <title>white</title>
+      <s:price currency="CAD">14.60</s:price>
+      <s:sku>KL2939W</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209191370770</id>
+    <published>2018-03-24T18:40:01-04:00</published>
+    <updated>2018-03-24T18:40:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/slant-24l-x-12d-metal-shelf-with-5-8-front-lip-kl2933"/>
+    <title>Slatwall accessories - Slatwall shelves - Slant 24(L) x 12(D) - inch metal shelf with 5/8 - inch front lip --- KL2933</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Slant_metal_shelf_with_front_lip.jpg?v=1556850298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            22.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slant 24(L) x 12(D) metal shelf with 5/8 - inch front lip for Slatwall.</p>
+<p>Available finish: black and white</p>
+<p>SKU: KL2933B, KL2933W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black slatwall shelves</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>heavy duty slatwall shelves</s:tag>
+    <s:tag>metal slatwall shelves</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall display shelves</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelf with lip</s:tag>
+    <s:tag>slatwall shelves</s:tag>
+    <s:tag>slatwall shelves near me</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209191370770</id>
+      <title>black</title>
+      <s:price currency="CAD">22.10</s:price>
+      <s:sku>KL2933B</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209191370770</id>
+      <title>white</title>
+      <s:price currency="CAD">22.10</s:price>
+      <s:sku>KL2933W</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://storefixtureshowcase.ca/products/209191108626</id>
+    <published>2018-03-24T18:35:58-04:00</published>
+    <updated>2018-03-24T18:35:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://storefixtureshowcase.ca/products/flat-wire-shelf-for-slatwall-and-slatgrid-of-3-16-wire-kl2908"/>
+    <title>Slatwall shelves - Flat wire shelf for slatwall and slatgrid of 3/16 - inch wire --- KL2908</title>
+    <s:type>Slatwall displays and accessories</s:type>
+    <s:vendor>Ablelin Store Fixtures Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1618/2961/products/Flat_wire_shelf_for_slatwall_and_slatgrid_of_wire..jpg?v=1521931197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ablelin Store Fixtures Corp.<br>
+        <strong>Type: </strong>Slatwall displays and accessories<br>
+        <strong>Price: </strong>
+            12.30 - 13.80
+            <a href="https://storefixtureshowcase.ca/products/flat-wire-shelf-for-slatwall-and-slatgrid-of-3-16-wire-kl2908">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flat wire shelf for Slatwall and slat grid of 3/16 - inch wire.</p>
+<p>14(W) x 20(L) - inch</p>
+<p>Available finish: black, white and chrome</p>
+<p>SKU: KL2908C, KL2908B, KL2908W</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black slatwall shelves</s:tag>
+    <s:tag>garage slatwall accessories</s:tag>
+    <s:tag>metal slatwall shelves</s:tag>
+    <s:tag>retail slatwall accessories</s:tag>
+    <s:tag>Shelf</s:tag>
+    <s:tag>slat board accessories</s:tag>
+    <s:tag>slat board accessories for garage</s:tag>
+    <s:tag>slat board shelves</s:tag>
+    <s:tag>slat board wall accessories</s:tag>
+    <s:tag>slatgrid</s:tag>
+    <s:tag>slatwall</s:tag>
+    <s:tag>slatwall accessories</s:tag>
+    <s:tag>slatwall accessories direct</s:tag>
+    <s:tag>slatwall accessories near me</s:tag>
+    <s:tag>slatwall display accessories</s:tag>
+    <s:tag>slatwall display shelves</s:tag>
+    <s:tag>slatwall office accessories</s:tag>
+    <s:tag>slatwall panel accessories</s:tag>
+    <s:tag>slatwall shelves</s:tag>
+    <s:tag>slatwall shelves near me</s:tag>
+    <s:tag>slatwall shelving accessories</s:tag>
+    <s:tag>slatwall tool accessories</s:tag>
+    <s:tag>slatwall wire shelves</s:tag>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209191108626</id>
+      <title>black</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku>KL2908B</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209191108626</id>
+      <title>white</title>
+      <s:price currency="CAD">12.30</s:price>
+      <s:sku>KL2908W</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://storefixtureshowcase.ca/products/209191108626</id>
+      <title>chrome</title>
+      <s:price currency="CAD">12.30</s:price>
+      <s:sku>KL2908C</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+  </entry>
+</feed>
